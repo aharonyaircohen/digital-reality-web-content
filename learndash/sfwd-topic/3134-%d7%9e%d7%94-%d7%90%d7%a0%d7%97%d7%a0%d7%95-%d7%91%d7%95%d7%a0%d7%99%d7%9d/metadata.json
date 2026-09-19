@@ -1,0 +1,27 @@
+{
+  "id": 3134,
+  "type": "sfwd-topic",
+  "title": "?מה אנחנו בונים",
+  "slug": "%d7%9e%d7%94-%d7%90%d7%a0%d7%97%d7%a0%d7%95-%d7%91%d7%95%d7%a0%d7%99%d7%9d",
+  "status": "publish",
+  "date": "2025-06-20 19:19:19",
+  "modified": "2025-06-20 16:19:19",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-topic&p=3134",
+  "link": "https://thedigitalreality.net/?sfwd-topic=%D7%9E%D7%94-%D7%90%D7%A0%D7%97%D7%A0%D7%95-%D7%91%D7%95%D7%A0%D7%99%D7%9D",
+  "terms": [],
+  "postmeta": {
+    "_sfwd-topic": "a:2:{i:0;s:0:\"\";s:17:\"sfwd-topic_course\";i:2501;}",
+    "_wpml_location_migration_done": "1",
+    "_wpml_word_count": "{\"total\":7,\"to_translate\":{\"en\":7}}",
+    "_wp_old_slug": "topic",
+    "ld_course_steps": "a:7:{s:5:\"steps\";a:1:{s:1:\"h\";a:2:{s:12:\"sfwd-lessons\";a:0:{}s:9:\"sfwd-quiz\";a:0:{}}}s:9:\"course_id\";i:3134;s:7:\"version\";s:8:\"4.20.1.1\";s:5:\"empty\";b:0;s:22:\"course_builder_enabled\";b:1;s:27:\"course_shared_steps_enabled\";b:1;s:11:\"steps_count\";i:0;}",
+    "_ld_course_steps_count": "0",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "32"
+  },
+  "media": [],
+  "video_links": []
+}

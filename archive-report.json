@@ -1,0 +1,162 @@
+{
+  "collections": {
+    "posts": {
+      "count": 36,
+      "media_count": 49,
+      "video_link_count": 7
+    },
+    "pages": {
+      "count": 59,
+      "media_count": 194,
+      "video_link_count": 6
+    },
+    "courses": {
+      "count": 1,
+      "media_count": 1,
+      "video_link_count": 0
+    },
+    "learndash/sfwd-certificates": {
+      "count": 4,
+      "media_count": 4,
+      "video_link_count": 0
+    },
+    "learndash/sfwd-courses": {
+      "count": 14,
+      "media_count": 0,
+      "video_link_count": 3
+    },
+    "learndash/sfwd-lessons": {
+      "count": 93,
+      "media_count": 1,
+      "video_link_count": 18
+    },
+    "learndash/sfwd-question": {
+      "count": 12,
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    "learndash/sfwd-quiz": {
+      "count": 4,
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    "learndash/sfwd-topic": {
+      "count": 49,
+      "media_count": 2,
+      "video_link_count": 24
+    }
+  },
+  "totals": {
+    "content_items": 272,
+    "media_files_recorded": 554,
+    "video_links": 58
+  },
+  "learndash_export": {
+    "attachments_in_export": 445,
+    "media_urls": 327,
+    "media_downloaded": 310
+  },
+  "download_failures": [
+    {
+      "post_id": "4522",
+      "url": "https://www.who.int/water_sanitation_health/dwq/nutrientschap12.pdf?utm_source=chatgpt.com",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "post_id": "5007",
+      "url": "https://pubs.usgs.gov/wsp/1535j/report.pdf?utm_source=chatgpt.com",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "wordpress_id": "4990",
+      "url": "https://.../optional.jpg",
+      "error": "curl: (22) The requested URL returned error: 400"
+    },
+    {
+      "wordpress_id": "4381",
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/08/your-image.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "wordpress_id": "3988",
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/08/your-image.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/החיישן-סגירת-האזיקונים-7.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-הברגת-רגליות-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-הברגת-רגליות-3-1.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-הכנה-לקידוח-ברז-מזיגה.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-הברגת-רגליות.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-סיום-הברגת-רגליות-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-עטיפת-הכד-בנחושת-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-פירוק-המכסה-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת-.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת-3-4.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת-3.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/השסתום-החשמלי-הכנה-להברגה-חדשה-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/חשמל-לשסתום-הכנת-תנינים-1-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/חשמל-לשסתום-הכנת-תנינים-3.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/חשמל-לשסתום-הכנת-תנינים-1.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    }
+  ],
+  "not_included": {
+    "operational_types": [
+      "sfwd-assignment",
+      "sfwd-transactions",
+      "ld-coupon"
+    ],
+    "reason": "Operational/user data was intentionally excluded."
+  }
+}

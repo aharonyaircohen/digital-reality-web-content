@@ -1,0 +1,26 @@
+{
+  "id": 133,
+  "type": "sfwd-lessons",
+  "title": "Flexibility Techniques for Mobility",
+  "slug": "flexibility-techniques-for-mobility",
+  "status": "publish",
+  "date": "2025-04-28 09:56:45",
+  "modified": "2025-04-28 09:56:45",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-lessons&p=133",
+  "link": "https://thedigitalreality.net/?sfwd-courses=strength-and-flexibility&sfwd-lessons=flexibility-techniques-for-mobility&lang=en",
+  "terms": [],
+  "postmeta": {
+    "course_id": "114",
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:114;}",
+    "_wp_old_slug": "lesson-2",
+    "ld_course_114": "114",
+    "_wpml_word_count": "{\"total\":10,\"to_translate\":{\"he\":10}}",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "209"
+  },
+  "media": [],
+  "video_links": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": 102,
+  "type": "sfwd-lessons",
+  "title": "Introduction to Mindfulness and Meditation",
+  "slug": "introduction-to-mindfulness-and-meditation",
+  "status": "publish",
+  "date": "2025-04-28 09:51:17",
+  "modified": "2025-04-28 09:51:17",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-lessons&p=102",
+  "link": "https://thedigitalreality.net/?sfwd-courses=mindful-meditation&sfwd-lessons=introduction-to-mindfulness-and-meditation&lang=en",
+  "terms": [],
+  "postmeta": {
+    "course_id": "99",
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:99;}",
+    "_wp_old_slug": "lesson",
+    "ld_course_99": "99",
+    "_wpml_word_count": "{\"total\":12,\"to_translate\":{\"he\":12}}",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "237"
+  },
+  "media": [],
+  "video_links": []
+}

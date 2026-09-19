@@ -1,0 +1,29 @@
+{
+  "id": 2000,
+  "type": "sfwd-lessons",
+  "title": "לֶקַח",
+  "slug": "%d7%9c%d6%b6%d7%a7%d6%b7%d7%97-2",
+  "status": "publish",
+  "date": "2025-04-28 09:57:04",
+  "modified": "2025-04-28 06:57:04",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net/ldlessons/%d7%9c%d6%b6%d7%a7%d6%b7%d7%97-2/",
+  "link": "https://thedigitalreality.net/?sfwd-courses=יסודות-התזונה-ההוליסטית&sfwd-lessons=לֶקַח-2",
+  "terms": [],
+  "postmeta": {
+    "_top_nav_excluded": "",
+    "_cms_nav_minihome": "",
+    "astra-migrate-meta-layouts": "default",
+    "ld_course_1994": "1994",
+    "course_id": "1994",
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:1994;}",
+    "ld_course_steps": "a:7:{s:5:\"steps\";a:1:{s:1:\"h\";a:2:{s:12:\"sfwd-lessons\";a:0:{}s:9:\"sfwd-quiz\";a:0:{}}}s:9:\"course_id\";i:2000;s:7:\"version\";s:8:\"4.20.1.1\";s:5:\"empty\";b:0;s:22:\"course_builder_enabled\";b:1;s:27:\"course_shared_steps_enabled\";b:1;s:11:\"steps_count\";i:0;}",
+    "_ld_course_steps_count": "0",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "205"
+  },
+  "media": [],
+  "video_links": []
+}

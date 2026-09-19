@@ -1,0 +1,144 @@
+{
+  "items": [
+    {
+      "wordpress_id": 4722,
+      "title": "מבוא לימה: היכרות והכנה",
+      "slug": "yama-intro",
+      "status": "publish",
+      "published_at": "2025-09-28 22:28:33",
+      "path": "learndash/sfwd-courses/4722-yama-intro",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3822,
+      "title": "מים מַרְוִים – סינון מי שתיה",
+      "slug": "hydrating-waters-filtering-waters",
+      "status": "private",
+      "published_at": "2025-07-16 16:27:50",
+      "path": "learndash/sfwd-courses/3822-hydrating-waters-filtering-waters",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3597,
+      "title": "מפגש זום - סינון מים למקלחת",
+      "slug": "zoom-shower-filtering-system",
+      "status": "publish",
+      "published_at": "2025-07-09 14:19:05",
+      "path": "learndash/sfwd-courses/3597-zoom-shower-filtering-system",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2501,
+      "title": "הכשרה לבניית מערכת ימה",
+      "slug": "building-yama",
+      "status": "publish",
+      "published_at": "2025-06-11 10:46:49",
+      "path": "learndash/sfwd-courses/2501-building-yama",
+      "media_count": 0,
+      "video_link_count": 1
+    },
+    {
+      "wordpress_id": 2226,
+      "title": "התייבשות כרונית",
+      "slug": "chronic-dehydration",
+      "status": "publish",
+      "published_at": "2025-06-06 15:16:44",
+      "path": "learndash/sfwd-courses/2226-chronic-dehydration",
+      "media_count": 0,
+      "video_link_count": 1
+    },
+    {
+      "wordpress_id": 2428,
+      "title": "מַיִם מַרְוִים - בקרוב",
+      "slug": "hydrating-waters",
+      "status": "private",
+      "published_at": "2025-06-06 15:13:05",
+      "path": "learndash/sfwd-courses/2428-hydrating-waters",
+      "media_count": 0,
+      "video_link_count": 1
+    },
+    {
+      "wordpress_id": 2386,
+      "title": "מַיִם מַרְוִים - סדנה לתלמידי רפואה אינטגרטיבית",
+      "slug": "the-hydrating-waters",
+      "status": "publish",
+      "published_at": "2025-06-01 18:37:08",
+      "path": "learndash/sfwd-courses/2386-the-hydrating-waters",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2377,
+      "title": "מסע בנשימה - סדנת מבוא",
+      "slug": "journey-with-breath",
+      "status": "publish",
+      "published_at": "2025-06-01 17:53:19",
+      "path": "learndash/sfwd-courses/2377-journey-with-breath",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1992,
+      "title": "זרימת כוח וגמישות",
+      "slug": "%d7%96%d7%a8%d7%99%d7%9e%d7%aa-%d7%9b%d7%95%d7%97-%d7%95%d7%92%d7%9e%d7%99%d7%a9%d7%95%d7%aa",
+      "status": "draft",
+      "published_at": "2025-04-28 09:57:11",
+      "path": "learndash/sfwd-courses/1992-%d7%96%d7%a8%d7%99%d7%9e%d7%aa-%d7%9b%d7%95%d7%97-%d7%95%d7%92%d7%9e%d7%99%d7%a9%d7%95%d7%aa",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 114,
+      "title": "Strength and Flexibility Flow",
+      "slug": "strength-and-flexibility",
+      "status": "publish",
+      "published_at": "2025-04-28 09:57:11",
+      "path": "learndash/sfwd-courses/114-strength-and-flexibility",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1994,
+      "title": "יסודות התזונה ההוליסטית",
+      "slug": "%d7%99%d7%a1%d7%95%d7%93%d7%95%d7%aa-%d7%94%d7%aa%d7%96%d7%95%d7%a0%d7%94-%d7%94%d7%94%d7%95%d7%9c%d7%99%d7%a1%d7%98%d7%99%d7%aa",
+      "status": "draft",
+      "published_at": "2025-04-28 09:55:03",
+      "path": "learndash/sfwd-courses/1994-%d7%99%d7%a1%d7%95%d7%93%d7%95%d7%aa-%d7%94%d7%aa%d7%96%d7%95%d7%a0%d7%94-%d7%94%d7%94%d7%95%d7%9c%d7%99%d7%a1%d7%98%d7%99%d7%aa",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 113,
+      "title": "Holistic Nutrition Essentials",
+      "slug": "holistic-nutrition",
+      "status": "publish",
+      "published_at": "2025-04-28 09:55:03",
+      "path": "learndash/sfwd-courses/113-holistic-nutrition",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 99,
+      "title": "Mindful Meditation Mastery",
+      "slug": "mindful-meditation",
+      "status": "publish",
+      "published_at": "2025-04-28 09:48:11",
+      "path": "learndash/sfwd-courses/99-mindful-meditation",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1996,
+      "title": "שליטה במדיטציה מודעת",
+      "slug": "%d7%a9%d7%9c%d7%99%d7%98%d7%94-%d7%91%d7%9e%d7%93%d7%99%d7%98%d7%a6%d7%99%d7%94-%d7%9e%d7%95%d7%93%d7%a2%d7%aa",
+      "status": "draft",
+      "published_at": "2025-04-28 09:48:11",
+      "path": "learndash/sfwd-courses/1996-%d7%a9%d7%9c%d7%99%d7%98%d7%94-%d7%91%d7%9e%d7%93%d7%99%d7%98%d7%a6%d7%99%d7%94-%d7%9e%d7%95%d7%93%d7%a2%d7%aa",
+      "media_count": 0,
+      "video_link_count": 0
+    }
+  ]
+}

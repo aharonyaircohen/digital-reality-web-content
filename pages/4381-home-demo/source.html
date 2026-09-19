@@ -1,0 +1,527 @@
+
+<!-- SEO Meta for Link Sharing -->
+<meta name="description" content="ברוך הבא למרחב של מציאות דיגיטלית עם יאיר אהרון כהן. כאן תמצא קורסים, סדנאות ותהליכי צמיחה מתוך עומק ונשימה.">
+<meta property="og:title" content="יאיר אהרון כהן – מציאות דיגיטלית">
+<meta property="og:description" content="ברוך הבא למרחב של מציאות דיגיטלית עם יאיר אהרון כהן. כאן תמצא קורסים, סדנאות ותהליכי צמיחה מתוך עומק ונשימה.">
+<meta property="og:image" content="https://thedigitalreality.net/wp-content/uploads/2025/08/your-image.jpg">
+<meta property="og:url" content="https://thedigitalreality.net/yac">
+
+<h1 style="display:none;">יאיר אהרון כהן – מים, נשימה, תודעה | קורסים דיגיטליים וסדנאות</h1>
+<p style="display:none;">עמוד קישורים: קורסים דיגיטליים, סדנאות, ומעגלי תודעה – מים 💧 נשימה 🧘‍♂️ ותודעה 🌀.</p>
+
+<style>
+:root{
+  --bg-outer-mobile:#0b1f4f;
+  --bg-outer-from:#300060; --bg-outer-mid:#6a00a8; --bg-outer-to:#b300b3;
+  --panel:#235af3; --panel-alpha:0.62;
+  --ink:#fff; --ink-soft:#dcd3ff;
+  --btn:#284b8f; --btn-hover:#5e35b1;
+  --radius:32px;
+
+  /* <<< החלף לנתיבי ההירו שלך >>> */
+  --hero-fallback: url("./media/photo_5859449317738268414_y.jpg");
+}
+
+*{box-sizing:border-box}
+body{margin:0}
+.outer-wrapper{ background:var(--bg-outer-mobile); min-height:100vh; }
+@media (min-width:728px){
+  .outer-wrapper{
+    background:linear-gradient(135deg,var(--bg-outer-from),var(--bg-outer-mid),var(--bg-outer-to));
+    background-attachment:fixed; padding:36px 0;
+  }
+}
+
+html { background: #050533; }
+
+.main-wrapper{
+  max-width:1024px; margin:0 auto; color:var(--ink);
+  background:#050533; border-radius:var(--radius);
+  overflow:hidden; box-shadow:0 0 40px rgba(5, 5, 51,.28);
+  backdrop-filter:saturate(120%) blur(10px);
+  -webkit-backdrop-filter:saturate(120%) blur(10px);
+}
+.profile-wrapper{ position: relative; z-index: 1; font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; direction:rtl; text-align:center; }
+
+/* ================= HERO ================= */
+.hero{ position:relative; width:100%; background-image:var(--hero-fallback); background-size:cover; background-position:center; overflow:hidden; }
+.hero{ min-height:200px; max-height:240px; }              /* הצרנו והגבלנו גובה */
+@media (min-width:728px){ .hero{ min-height:340px; max-height:441px; } }
+
+/* כשמשתמשים ב<picture> עם <img> */
+.hero media, .hero picture, .hero .hero-img{ display:block; width:100%; height:120%; }
+.hero .hero-img{ position:absolute; inset:0; object-fit:cover; }
+
+/* ויג’נט צדדי עדין + גראדיינט תחתון חזק */
+.hero::before{
+  content:""; position:absolute; inset:0;
+  background:radial-gradient(100% 65% at 50% 35%, rgba(5, 5, 51,0) 55%, rgba(5, 5, 51,.25) 100%);
+  pointer-events:none;
+}
+.hero::after{
+  content:""; position:absolute; left:0; right:0; bottom:0; height:60%;
+  background:linear-gradient(to bottom, rgba(5, 5, 51,0) 0%, rgba(5, 5, 51,.35) 35%, rgba(5, 5, 51,.78) 80%, rgba(5, 5, 51,.92) 100%);
+  pointer-events:none;
+}
+
+/* שכבת טקסט/אייקונים על ההירו */
+.hero-content{ position:absolute; inset:auto 0 0 0; margin-bottom:14px; z-index:1; }
+.hero-name{ font-size:clamp(22px,3vw + 10px,36px); font-weight:900; margin:0; text-shadow:0 3px 10px rgba(5, 5, 51,.55); }
+.hero-sub{ font-size:16px; color:var(--ink-soft); margin:0 0 14px; text-shadow:0 2px 8px rgba(5, 5, 51,.5); }
+
+/* גלולה לאייקון רשת */
+.social-pills{ display:flex; gap:10px; justify-content:center; margin-bottom:6px; }
+.pill{ width:42px; height:42px; border-radius:999px; display:grid; place-items:center; background:#fff; box-shadow:0 4px 10px rgba(5, 5, 51,.25); transition:transform .15s ease, box-shadow .2s ease; }
+.pill img{ width:22px; height:22px; display:block; }
+.pill:hover{ transform:translateY(-2px) scale(1.03); box-shadow:0 8px 18px rgba(5, 5, 51,.35); }
+.pill:active{ transform:translateY(0) scale(.99); }
+
+/* ================= CONTENT ================= */
+.profile-container{ margin-top:-14px; background-color: #050533; padding: 10px 0 }
+.bio-line{ font-size:15px; color:var(--ink-soft); margin:0; }
+/* כרטיסים – רחבים יותר, רווחים קטנים יותר */
+.card-link{
+  position:relative; display:inline-block; width:100%; max-width:460px; height:164px;
+  margin:11px 0; border-radius:11px; overflow:hidden;
+}
+.card-img{
+  position:absolute; inset:0; width:100%; height:111%; object-fit:cover; display:block; z-index:0;
+}
+
+/* גרדיאנט עליון ממש מהקצה */
+.card-link::before{
+  content:""; position:absolute; inset:0; pointer-events:none; z-index:1;
+  background: linear-gradient(
+    to bottom,               /* מלמעלה למטה */
+    rgba(5, 5, 51,.55) 0%,      /* כהה ממש בקצה העליון */
+    rgba(5, 5, 51,.28) 14%,     /* דועך בהדרגה */
+    rgba(5, 5, 51,0) 34%        /* נעלם לגמרי */
+  );
+}
+
+/* גרדיאנט תחתון */
+.card-link::after{
+  content:""; position:absolute; inset:0; pointer-events:none; z-index:1;
+  background: linear-gradient(
+    to bottom,
+    rgba(5, 5, 51,0) 70%,
+    rgba(5, 5, 51,.38) 85%,
+    rgba(5, 5, 51,.84) 100%
+  );
+}
+
+
+.card-link:hover{ transform:translateY(-2px) scale(1.02) rotateX(1.2deg);
+  box-shadow:0 8px 22px rgba(5, 5, 51,.55), inset 0 0 0 1px rgba(255,255,255,.12);
+  filter:saturate(1.06);
+}
+.card-text{ position:absolute; inset:auto 0 0 0; z-index:1; padding:16px 18px; font-size:32px; font-weight:800; color:#fff; text-shadow:0 2px 6px rgba(5, 5, 51,.45); }
+
+/* כפתורי טקסט – רחבים יותר, רווחים קטנים יותר */
+.link-button-with-icon{
+height: 88px;
+  display:flex; align-items:center; justify-content:center; gap:12px;
+  background:#0e1b3e; color:#fff; border-radius:11px; text-decoration:none;
+  width:100%; max-width:460px; margin:12px auto 0; padding:16px 24px; font-size:18px;
+  box-shadow:0 4px 12px rgba(5, 5, 51,.2); transition:background-color .25s ease, transform .2s ease;
+}
+.link-button-with-icon:hover{ background:var(--btn-hover); transform:translateY(-1px) scale(1.02); }
+.link-button-with-icon:focus-visible{ outline:3px solid #fff; outline-offset:2px; }
+.button-icon{ max-width:88px; height:28px; border-radius:50%; object-fit:cover; }
+
+/* CTA מודגש עם מסגרת גראדיינטית */
+.cta-primary{
+  background:#2c0b74;
+}
+.cta-primary:hover{
+  background:
+    linear-gradient(#3458a7,#3458a7) padding-box,
+    linear-gradient(90deg,#74b2ff,#b5a0ff,#ffa0c6) border-box;
+}
+
+/* רשתות קטנות בתחתית */
+.social-links{ margin:32px; display:flex; justify-content:center; gap:18px; }
+.social-links img{ width:28px; height:28px; transition:transform .2s ease, filter .2s ease; }
+.social-links a:hover img{ transform:scale(1.1); filter:drop-shadow(0 2px 6px rgba(5, 5, 51,.35)); }
+
+/* מובייל ללא פינות */
+@media (max-width:600px){ .main-wrapper{ border-radius:0 !important; } }
+
+/* מצבי צבע */
+@media (prefers-color-scheme:dark){ :root{ --panel-alpha:.68 } }
+@media (prefers-color-scheme:light){ :root{ --panel-alpha:.56 } }
+
+/* Reduced motion */
+@media (prefers-reduced-motion:reduce){
+  .card-link,.link-button-with-icon,.pill{ transition:none }
+  .card-link:hover,.link-button-with-icon:hover,.pill:hover{ transform:none }
+}
+/* ================= BUTTON WITH RIGHT MEDIA ================= */
+
+/* גרדיאנט עליון+תחתון על כל הכפתור */
+a.link-button-with-icon.media-right{
+text-align: right;
+  position: relative;
+  overflow: hidden;
+ --topbot-alpha: .28;   /* חוזק הגרדיאנט העליון/תחתון */
+  --topbot-spread: 28%;  /* עד כמה הוא “נכנס” פנימה */
+  --side-alpha: .22;     /* חוזק הגרדיאנט הצדדי (אם מוגדר אצלך) */
+}
+
+a.link-button-with-icon.media-right::after{
+  content:"";
+  position:absolute;
+  inset:0;               /* מכסה את כל הכפתור */
+  pointer-events:none;
+  z-index:2;             /* מעל התמונה */
+  background:
+    linear-gradient(to bottom, rgba(5, 5, 51,var(--topbot-alpha)) 0%, rgba(5, 5, 51,0) var(--topbot-spread)),
+    linear-gradient(to top,    rgba(5, 5, 51,var(--topbot-alpha)) 0%, rgba(5, 5, 51,0) var(--topbot-spread));
+}
+
+
+a.link-button-with-icon.media-right .button-icon{
+  position: absolute; inset-block: 0; inset-inline-end: 0;
+  width: var(--media-w); height: 100%; object-fit: cover;
+  border-radius: 0; box-shadow: none; z-index: 0;
+max-width: 88px;
+}
+
+/* צד שמאלי – דהייה חזקה יותר מהתמונה לטקסט */
+a.link-button-with-icon.media-right::before{
+  content:""; position:absolute; inset-block:0; inset-inline-end:0;
+  width: var(--media-w); pointer-events:none; z-index: 1;
+  background: linear-gradient(to left,
+    rgba(5, 5, 51,var(--side-alpha)) 0%,
+    rgba(5, 5, 51,.22) 32%,
+    rgba(5, 5, 51,0) 60%
+  );
+  /* להדליק "אגרסיבי": */
+  /* mix-blend-mode: multiply; */
+}
+
+
+
+/* פוקוס נגיש */
+a.link-button-with-icon.media-right:focus-visible{
+  outline:3px solid #fff; outline-offset:2px;
+}
+
+</style>
+
+<div class="outer-wrapper">
+  <div class="main-wrapper">
+<!--
+הערות לשילוב עם הפלאגין שלך:
+1) הצג/הסתר לפי מצב התחברות:
+   - הוסף/י מחלקת display:none ל- .guest-only כאשר מחוברים, ולהפך ל- .user-only כשלא.
+   - לחלופין, שהפלאגין ימחוק/יוסיף את ה- <li> בזמן הרנדור.
+
+2) התנתקות:
+   - תפס/י את [data-action="logout"] והחלף/י לכתובת logout עם nonce (wp_logout_url) בצד ה-PHP,
+     או בצע/י POST לאנדפוינט שהפלאגין מספק.
+
+3) ספירת עגלה:
+   - עדכן/י את תוכן האלמנט [data-cart-count] מה-WooCommerce cart count.
+-->
+
+    <div class="profile-wrapper">
+<!-- תפריט אייקונים קומפקטי לריחוף מעל ה-hero -->
+<nav dir="rtl" lang="he"
+     style="
+       position:absolute;
+       top:0; left:0; right:0;       /* מתוח לכל אורך התמונה */
+       height:40px;                  /* גובה הפס */
+       background:rgba(5,5,51,0.7);  /* רקע כהה שקוף */
+       display:flex;
+       justify-content:flex-end;     /* אייקונים בצד שמאל */
+       align-items:center;
+       padding:0 22px;               /* רווח קטן משמאל */
+       z-index:50;
+     ">
+  <ul style="display:flex;list-style:none;margin:0;padding:0;gap:16px;">
+    
+    <!-- התחבר -->
+    <li>
+      <a href="/my-account/" style="color:#fff;display:flex;align-items:center;text-decoration:none;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+          <circle cx="12" cy="8" r="4" stroke="currentColor" stroke-width="2"/>
+          <path d="M4 20c0-4 4-6 8-6s8 2 8 6" stroke="currentColor" stroke-width="2"/>
+        </svg>
+      </a>
+    </li>
+
+    <!-- אזור אישי -->
+    <li>
+      <a href="/my-account/" style="color:#fff;display:flex;align-items:center;text-decoration:none;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+          <circle cx="12" cy="7.5" r="3.5" stroke="currentColor" stroke-width="2"/>
+          <path d="M4 20.5c0-3.5 3.6-5.5 8-5.5s8 2 8 5.5" stroke="currentColor" stroke-width="2"/>
+        </svg>
+      </a>
+    </li>
+
+    <!-- התנתק -->
+    <li>
+      <a href="#" style="color:#fff;display:flex;align-items:center;text-decoration:none;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+          <path d="M10 6V4a2 2 0 0 1 2-2h6v20h-6a2 2 0 0 1-2-2v-2" stroke="currentColor" stroke-width="2"/>
+          <path d="M15 12H3m0 0 3-3m-3 3 3 3" stroke="currentColor" stroke-width="2"/>
+        </svg>
+      </a>
+    </li>
+
+    <!-- עגלה -->
+    <li>
+      <a href="/cart/" style="color:#fff;display:flex;align-items:center;position:relative;text-decoration:none;">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+          <path d="M3 4h2l2.2 10.5a2 2 0 0 0 2 1.5h7.6a2 2 0 0 0 2-1.5L21 7H6" stroke="currentColor" stroke-width="2"/>
+          <circle cx="10" cy="20" r="1.2" fill="currentColor"/>
+          <circle cx="17" cy="20" r="1.2" fill="currentColor"/>
+        </svg>
+        <span style="position:absolute;top:-6px;left:-8px;min-width:14px;height:14px;
+                     display:flex;align-items:center;justify-content:center;
+                     font-size:10px;background:#ff3b30;color:#fff;border-radius:50%;">0</span>
+      </a>
+    </li>
+
+  </ul>
+</nav>
+
+
+
+      <!-- ===== HERO ===== -->
+      <section class="hero" role="img" >
+        <!-- החלף לשמות הקבצים שלך -->
+        <picture>
+          <source srcset="./media/photo_5859449317738268414_y.jpg 2000w,
+                          ./media/photo_5859449317738268414_y.jpg 1400w,
+                          ./media/photo_5859449317738268414_y.jpg 900w"
+                  sizes="(min-width:728px) 760px, 100vw">
+          <img class="hero-img" src="./media/photo_5859449317738268414_y.jpg"
+                decoding="async" loading="eager">
+        </picture>
+
+        <div class="hero-content">
+          <div class="hero-name">יאיר אהרון כהן</div>
+      <span class="bio-line"><b>
+</b>
+קורסים דיגיטליים, סדנאות ותהליכי צמיחה 
+
+</p>
+
+        </div>
+      </section>
+
+      <!-- ===== CONTENT ===== -->
+      <div class="profile-container">
+
+  <span  style="color: white; font-weight: bold; font-size:16px; margin: 11px 0;" class="copyable" tabindex="0" role="button" data-copy="YAMA75-2025" data-hint="העתקת קישור">
+   <br/>
+    <!-- 
+  קופון השקה 
+ 75% הנחה עד סוף אוגוסט: YAMA75-2025
+ -->
+  </span>
+
+        <!-- כרטיסים (עם <img> + lazy‑load) -->
+        <a href="https://thedigitalreality.net/courses/building-yama/" class="card-link" data-ev="card" data-name="בניית מערכת ימה">
+          <img class="card-img" src="./media/Copy-of-Water-Template-4.jpg"
+               alt="בניית מערכת ימה" loading="lazy" decoding="async">
+        <div class="card-text">בניית מערכת ימה</div> 
+        </a>
+
+        <a href="https://thedigitalreality.net/courses/chronic-dehydration/" class="card-link" data-ev="card" data-name="מהי התייבשות כרונית?">
+          <img class="card-img" src="./media/Add-a-heading.jpg"
+               alt="מהי התייבשות כרונית?" loading="lazy" decoding="async">
+          <div class="card-text">מהי התייבשות כרונית?</div> 
+        </a>
+
+        <a href="https://thedigitalreality.net/" class="card-link" data-ev="card" data-name="המציאות הדיגיטלית">
+          <img class="card-img" src="https://thedigitalreality.net/wp-content/uploads/2025/08/המציאות-הדיגיטלית.jpg"
+               alt="המציאות הדיגיטלית" loading="lazy" decoding="async">
+          <div class="card-text">המציאות הדיגיטלית</div> 
+        </a>
+
+        <!-- CTA-ים רחבים יותר -->
+        <a href="https://chat.whatsapp.com/IbKcp5EnnR25qI4h3IkRTr" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="בניית מערכת ימה -  דיונים, עדכונים, ייעוץ, תמיכה והנחות" data-ev="cta" data-name="מעגלי צמיחה – סדנאות">
+          <img src="./media/May-21-2025-11_03_21-AM.png" alt="" class="button-icon" loading="lazy" decoding="async">
+בניית מערכת ימה &#8211;  דיונים, עדכונים, ייעוץ, תמיכה והנחות
+        </a>
+
+        <a href="https://chat.whatsapp.com/F1vtwpZK33Z3ZZc3bA03Ie" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="מעגלי צמיחה – סדנאות" data-ev="cta" data-name="מעגלי צמיחה – סדנאות">
+          <img src="./media/file-1.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+          מעגלי צמיחה – סדנאות
+        </a>
+
+        <a href="https://wa.me/+972502171468" class="link-button-with-icon media-right" target="_blank" rel="noopener noreferrer" aria-label="שליחת הודעת וואטסאפ" data-ev="cta" data-name="וואטסאפ – צרו קשר">
+          <img src="./media/cropped-2-e1745908821308.png" alt="" class="button-icon" loading="lazy" decoding="async">
+          לכל שאלה נוספת שלח.י הודעה
+        </a>
+
+        <div class="social-links" aria-label="עוד רשתות">
+          <a href="https://instagram.com/aharonyaircoh" target="_blank" rel="noopener noreferrer">
+            <img src="./media/1384063.png" alt="Instagram" loading="lazy" decoding="async">
+          </a>
+          <a href="mailto:the.digital.reality.space@gmail.com" target="_blank" rel="noopener noreferrer">
+            <img src="./media/542638.png" alt="Email" loading="lazy" decoding="async">
+          </a>
+          <a href="https://www.facebook.com/profile.php?id=100069604805109" target="_blank" rel="noopener noreferrer">
+            <img src="./media/1384053.png" alt="Facebook" loading="lazy" decoding="async">
+          </a>
+        </div>
+      </div>
+
+    </div>
+    <footer dir="rtl" lang="he" style="  text-align:center;
+  background-image:url('./media/Copy-of-Water-Template-5.jpg');
+  background-size:cover; background-position:center; background-repeat:no-repeat;
+  color:#fff;">
+
+  <!-- שכבת כהות קלה לטקסט קריא -->
+  <div style="background:rgba(5,5,51,0.55);">
+    <div style="max-width:1200px;margin:0 auto;padding:28px 20px;display:flex;flex-wrap:wrap;gap:18px;align-items:center;justify-content:space-between;">
+
+      <!-- קישורים -->
+      <nav aria-label="קישורי פוטר" style="flex:1 1 520px;">
+        <ul style="display:flex;flex-wrap:wrap;gap:14px 24px;list-style:none;margin:0;padding:0;">
+          <!-- שכפל/י <li> לפי הצורך והחלף/י את ה- href לכתובות העמודים שלך -->
+          <li><a href="/terms" style="color:#fff;text-decoration:none;opacity:.95;">תקנון</a></li>
+          <li><a href="/contact" style="color:#fff;text-decoration:none;opacity:.95;">צור קשר</a></li>
+          <!-- דוגמאות נוספות:
+          <li><a href="/privacy-policy" style="color:#fff;text-decoration:none;opacity:.95;">מדיניות פרטיות</a></li>
+          <li><a href="/faq" style="color:#fff;text-decoration:none;opacity:.95;">שאלות נפוצות</a></li>
+          -->
+        </ul>
+      </nav>
+
+      <!-- זכויות יוצרים (אופציונלי) -->
+      <div style="flex:0 1 auto;opacity:.9;font-size:.95rem;">
+        © <span id="year">2025</span> מציאות דיגיטלית • כל הזכויות שמורות
+      </div>
+
+    </div>
+  </div>
+</footer>
+
+  </div>
+  
+</div>
+
+
+<!-- אנליטיקה מינימלית לקליקים (GTM dataLayer) -->
+<script>
+document.addEventListener('click', (e)=>{
+  const a = e.target.closest('a[data-ev]'); if(!a) return;
+  const ev = a.dataset.ev, name = a.dataset.name || a.textContent.trim();
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({event:`click_${ev}`, label:name});
+});
+</script>
+
+<!-- Schema.org Person -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Person",
+  "name":"יאיר אהרון כהן",
+  "url":"https://thedigitalreality.net/yac",
+  "image":"https://thedigitalreality.net/wp-content/uploads/2025/08/your-image.jpg",
+  "sameAs":[
+    "https://instagram.com/aharonyaircoh",
+    "mailto:the.digital.reality.space@gmail.com",
+    "https://www.facebook.com/profile.php?id=100069604805109"
+  ],
+  "knowsAbout":["מים","נשימה","תודעה","קורסים דיגיטליים","סדנאות"]
+}
+</script>
+
+
+<script>
+(function () {
+  const SECURE_CTX_MSG = "העתקה דורשת דף מאובטח (https).";
+  const copiedStateTimeout = 1200;
+
+  async function writeClipboard(text) {
+    // עדיפות ל־Clipboard API (דורש HTTPS)
+    if (navigator.clipboard && window.isSecureContext) {
+      await navigator.clipboard.writeText(text);
+      return;
+    }
+    // Fallback ישן: textarea נסתרת + execCommand
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.focus();
+    ta.select();
+    const ok = document.execCommand("copy");
+    document.body.removeChild(ta);
+    if (!ok) throw new Error(SECURE_CTX_MSG);
+  }
+
+  function getTextToCopy(el) {
+    // אם יש data-copy – נשתמש בו; אחרת הטקסט הפנימי
+    const fromAttr = el.getAttribute("data-copy");
+    if (fromAttr && fromAttr.trim()) return fromAttr.trim();
+    // לניקוי רווחים עודפים ושבירת שורות
+    return el.textContent.replace(/\s+\n/g, "\n").trim();
+  }
+
+  function setCopiedState(el) {
+    el.setAttribute("data-state", "copied");
+    setTimeout(() => el.removeAttribute("data-state"), copiedStateTimeout);
+  }
+
+  function isCopyable(el) {
+    return el.classList && (el.classList.contains("copyable") || el.classList.contains("copy-block") || el.classList.contains("copy-btn"));
+  }
+
+  // האזנה קלילה לכל הקליקים במעטפת
+  document.addEventListener("click", async (e) => {
+    // כפתור בתוך copy-block
+    if (e.target.classList.contains("copy-btn")) {
+      const block = e.target.closest(".copy-block");
+      if (!block) return;
+      const text = block.getAttribute("data-copy")?.trim() || block.textContent.trim();
+      try {
+        await writeClipboard(text);
+        setCopiedState(block);
+        e.target.textContent = "הועתק!";
+        setTimeout(() => (e.target.textContent = "העתק"), copiedStateTimeout);
+      } catch (err) {
+        alert(err.message || "נכשלה ההעתקה");
+      }
+      return;
+    }
+
+    // copyable אינליין
+    const el = e.target.closest(".copyable");
+    if (!el) return;
+    try {
+      const text = getTextToCopy(el);
+      await writeClipboard(text);
+      setCopiedState(el);
+    } catch (err) {
+      alert(err.message || "נכשלה ההעתקה");
+    }
+  });
+
+  // תמיכה במקלדת: Enter / Space
+  document.addEventListener("keydown", async (e) => {
+    if (e.key !== "Enter" && e.key !== " ") return;
+    const el = document.activeElement;
+    if (!isCopyable(el) || !el.classList.contains("copyable")) return;
+    e.preventDefault();
+    try {
+      const text = getTextToCopy(el);
+      await writeClipboard(text);
+      setCopiedState(el);
+    } catch (err) {
+      alert(err.message || "נכשלה ההעתקה");
+    }
+  });
+})();
+</script>
+

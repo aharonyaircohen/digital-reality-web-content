@@ -1,0 +1,27 @@
+{
+  "id": 1998,
+  "type": "sfwd-lessons",
+  "title": "לֶקַח",
+  "slug": "%d7%9c%d6%b6%d7%a7%d6%b7%d7%97",
+  "status": "publish",
+  "date": "2025-04-28 09:57:06",
+  "modified": "2025-04-28 06:57:06",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net/ldlessons/%d7%9c%d6%b6%d7%a7%d6%b7%d7%97/",
+  "link": "https://thedigitalreality.net/?sfwd-courses=זרימת-כוח-וגמישות&sfwd-lessons=לֶקַח",
+  "terms": [],
+  "postmeta": {
+    "_top_nav_excluded": "",
+    "_cms_nav_minihome": "",
+    "astra-migrate-meta-layouts": "default",
+    "ld_course_1992": "1992",
+    "course_id": "1992",
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:1992;}",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "201"
+  },
+  "media": [],
+  "video_links": []
+}

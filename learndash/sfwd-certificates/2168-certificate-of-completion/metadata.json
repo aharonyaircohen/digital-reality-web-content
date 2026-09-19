@@ -1,0 +1,43 @@
+{
+  "id": 2168,
+  "type": "sfwd-certificates",
+  "title": "Certificate of Completion",
+  "slug": "certificate-of-completion",
+  "status": "publish",
+  "date": "2025-05-28 13:12:40",
+  "modified": "2025-05-28 10:12:40",
+  "author": "Admin",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net/?post_type=sfwd-certificates&p=2168",
+  "link": "https://thedigitalreality.net/?sfwd-certificates=certificate-of-completion&lang=en",
+  "terms": [],
+  "postmeta": {
+    "_wpml_word_count": "{\"total\":7,\"to_translate\":{\"he\":7}}",
+    "_edit_last": "15",
+    "learndash_certificate_options": "a:2:{s:15:\"pdf_page_format\";s:6:\"LETTER\";s:20:\"pdf_page_orientation\";s:1:\"L\";}",
+    "site-sidebar-layout": "default",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "theme-transparent-header-meta": "default",
+    "astra-migrate-meta-layouts": "set",
+    "_wpml_media_duplicate": "1",
+    "_wpml_media_featured": "1",
+    "ld_certificate_builder_old_content": "",
+    "ld_certificate_builder_on": "1",
+    "_wpml_location_migration_done": "1",
+    "_wpml_media_has_media": "1",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "132"
+  },
+  "media": [
+    {
+      "file": "media/Certificate-of-Completion.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/Certificate-of-Completion.jpg",
+      "bytes": 179909,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": []
+}

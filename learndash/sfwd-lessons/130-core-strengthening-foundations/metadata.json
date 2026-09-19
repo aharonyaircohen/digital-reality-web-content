@@ -1,0 +1,26 @@
+{
+  "id": 130,
+  "type": "sfwd-lessons",
+  "title": "Core Strengthening Foundations",
+  "slug": "core-strengthening-foundations",
+  "status": "publish",
+  "date": "2025-04-28 09:56:38",
+  "modified": "2025-04-28 09:56:38",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-lessons&p=130",
+  "link": "https://thedigitalreality.net/?sfwd-courses=strength-and-flexibility&sfwd-lessons=core-strengthening-foundations&lang=en",
+  "terms": [],
+  "postmeta": {
+    "course_id": "114",
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:114;}",
+    "_wp_old_slug": "lesson",
+    "ld_course_114": "114",
+    "_wpml_word_count": "{\"total\":8,\"to_translate\":{\"he\":8}}",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "214"
+  },
+  "media": [],
+  "video_links": []
+}

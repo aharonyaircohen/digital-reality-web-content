@@ -1,0 +1,23 @@
+{
+  "id": 2307,
+  "type": "sfwd-lessons",
+  "title": "Lesson",
+  "slug": "lesson",
+  "status": "publish",
+  "date": "2025-05-30 23:12:04",
+  "modified": "2025-05-30 20:12:04",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-lessons&p=2307",
+  "link": "https://thedigitalreality.net/?sfwd-lessons=lesson",
+  "terms": [],
+  "postmeta": {
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:2226;}",
+    "_wpml_word_count": "{\"total\":0,\"to_translate\":{\"en\":2,\"he\":2}}",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "119"
+  },
+  "media": [],
+  "video_links": []
+}

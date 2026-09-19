@@ -1,0 +1,83 @@
+{
+  "counts": {
+    "sfwd-courses": 14,
+    "sfwd-certificates": 4,
+    "sfwd-lessons": 93,
+    "sfwd-topic": 49,
+    "sfwd-quiz": 4,
+    "sfwd-question": 12
+  },
+  "media_urls": 327,
+  "media_downloaded": 310,
+  "download_failures": [
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/החיישן-סגירת-האזיקונים-7.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-הברגת-רגליות-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-הברגת-רגליות-3-1.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-הכנה-לקידוח-ברז-מזיגה.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-הברגת-רגליות.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-סיום-הברגת-רגליות-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-עטיפת-הכד-בנחושת-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/הכד-פירוק-המכסה-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת-.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת-3-4.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת-3.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/השסתום-החשמלי-הכנה-להברגה-חדשה-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/המגנט-עטיפת-המגנט-בנחושת.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/חשמל-לשסתום-הכנת-תנינים-1-2.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/חשמל-לשסתום-הכנת-תנינים-3.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    },
+    {
+      "url": "https://thedigitalreality.net/wp-content/uploads/2025/06/חשמל-לשסתום-הכנת-תנינים-1.jpg",
+      "error": "curl: (22) The requested URL returned error: 404"
+    }
+  ],
+  "attachments_in_export": 445
+}

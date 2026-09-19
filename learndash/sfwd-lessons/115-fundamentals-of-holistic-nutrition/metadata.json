@@ -1,0 +1,26 @@
+{
+  "id": 115,
+  "type": "sfwd-lessons",
+  "title": "Fundamentals of Holistic Nutrition",
+  "slug": "fundamentals-of-holistic-nutrition",
+  "status": "publish",
+  "date": "2025-04-28 09:53:41",
+  "modified": "2025-04-28 09:53:41",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-lessons&p=115",
+  "link": "https://thedigitalreality.net/?sfwd-courses=holistic-nutrition&sfwd-lessons=fundamentals-of-holistic-nutrition&lang=en",
+  "terms": [],
+  "postmeta": {
+    "course_id": "113",
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:113;}",
+    "_wp_old_slug": "lesson",
+    "ld_course_113": "113",
+    "_wpml_word_count": "{\"total\":10,\"to_translate\":{\"he\":10}}",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "227"
+  },
+  "media": [],
+  "video_links": []
+}

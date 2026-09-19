@@ -1,0 +1,24 @@
+{
+  "id": 2646,
+  "type": "sfwd-topic",
+  "title": "Topic",
+  "slug": "topic-4",
+  "status": "publish",
+  "date": "2025-06-14 19:15:35",
+  "modified": "2025-06-14 16:15:35",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-topic&p=2646",
+  "link": "https://thedigitalreality.net/?sfwd-topic=topic-4",
+  "terms": [],
+  "postmeta": {
+    "_sfwd-topic": "a:2:{i:0;s:0:\"\";s:17:\"sfwd-topic_course\";i:2501;}",
+    "_wpml_location_migration_done": "1",
+    "_wpml_word_count": "{\"total\":4,\"to_translate\":{\"en\":4}}",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "58"
+  },
+  "media": [],
+  "video_links": []
+}

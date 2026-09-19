@@ -1,0 +1,51 @@
+{
+  "wordpress_id": 1257,
+  "content_type": "pages",
+  "title": "קורסים",
+  "slug": "courses-1",
+  "source_url": "https://thedigitalreality.net/?page_id=1257",
+  "status": "publish",
+  "published_at": "2025-04-29T07:07:01",
+  "modified_at": "2025-07-16T16:31:05",
+  "excerpt_html": "<p>הקורסים Why Choose Digital Reality Discover what sets our wellness education platform apart and why thousands of students trust us [&hellip;]</p>\n",
+  "featured_media_source_url": null,
+  "media": [
+    {
+      "file": "media/1-e1748790944797.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/מסע-בנשימה-1-e1748790944797.jpg",
+      "bytes": 190729,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Add-a-heading-4.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/Add-a-heading-4.jpg",
+      "bytes": 133015,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Copy-of-Water-Template-1-1.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/07/Copy-of-Water-Template-1-1.jpg",
+      "bytes": 190394,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Copy-of-Water-Template-2-1.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/07/Copy-of-Water-Template-2-1.jpg",
+      "bytes": 160749,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Empty-Water-Template-1.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/Empty-Water-Template-1.jpg",
+      "bytes": 116502,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/yama-intro-e1759491117404.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/yama-intro-e1759491117404.jpg",
+      "bytes": 76625,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": []
+}

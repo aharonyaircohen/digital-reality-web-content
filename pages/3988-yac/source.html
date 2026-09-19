@@ -1,0 +1,668 @@
+
+<!-- SEO Meta for Link Sharing -->
+<meta name="description" content="ברוך הבא למרחב של מציאות דיגיטלית עם יאיר אהרון כהן. כאן תמצא קורסים, סדנאות ותהליכי צמיחה מתוך עומק ונשימה.">
+<meta property="og:title" content="יאיר אהרון כהן – מציאות דיגיטלית">
+<meta property="og:description" content="ברוך הבא למרחב של מציאות דיגיטלית עם יאיר אהרון כהן. כאן תמצא קורסים, סדנאות ותהליכי צמיחה מתוך עומק ונשימה.">
+<meta property="og:image" content="https://thedigitalreality.net/wp-content/uploads/2025/08/your-image.jpg">
+<meta property="og:url" content="https://thedigitalreality.net/yac">
+
+<h1 style="display:none;">יאיר אהרון כהן – מים, נשימה, תודעה | קורסים דיגיטליים וסדנאות</h1>
+<p style="display:none;">עמוד קישורים: קורסים דיגיטליים, סדנאות, ומעגלי תודעה – מים 💧 נשימה 🧘‍♂️ ותודעה 🌀.</p>
+
+<style>
+:root{
+  --bg-outer-mobile:#0b1f4f;
+  --bg-outer-from:#300060; --bg-outer-mid:#6a00a8; --bg-outer-to:#b300b3;
+  --panel:#235af3; --panel-alpha:0.62;
+  --ink:#fff; --ink-soft:#dcd3ff;
+  --btn:#284b8f; --btn-hover:#5e35b1;
+  --radius:32px;
+
+  /* <<< החלף לנתיבי ההירו שלך >>> */
+  --hero-fallback: url("./media/Screenshot-2025-09-06-at-21.32.26.png");
+}
+
+*{box-sizing:border-box}
+body{margin:0}
+.outer-wrapper{ background:var(--bg-outer-mobile); min-height:100vh; }
+@media (min-width:728px){
+  .outer-wrapper{
+    background:linear-gradient(135deg,var(--bg-outer-from),var(--bg-outer-mid),var(--bg-outer-to));
+    background-attachment:fixed; padding:36px 0;
+  }
+}
+
+html { background: #050533; }
+
+.main-wrapper{
+  max-width:760px; margin:0 auto; color:var(--ink);
+  background:#050533; border-radius:var(--radius);
+  overflow:hidden; box-shadow:0 0 40px rgba(5, 5, 51,.28);
+  backdrop-filter:saturate(120%) blur(10px);
+  -webkit-backdrop-filter:saturate(120%) blur(10px);
+}
+.profile-wrapper{ font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; direction:rtl; text-align:center; }
+
+/* ================= HERO ================= */
+.hero{ position:relative; width:100%; background-image:var(--hero-fallback); background-size:cover; background-position:center; overflow:hidden; }
+.hero{ height:188px; }              /* הצרנו והגבלנו גובה */
+@media (min-width:728px){ .hero{ min-height:340px; max-height:441px; } }
+
+/* כשמשתמשים ב<picture> עם <img> */
+.hero media, .hero picture, .hero .hero-img{ display:block; width:100%; height:172%; }
+.hero .hero-img{ position:absolute; inset:0; object-fit:cover; }
+
+/* ויג’נט צדדי עדין + גראדיינט תחתון חזק */
+.hero::before{
+  content:""; position:absolute; inset:0;
+  background:radial-gradient(100% 65% at 50% 35%, rgba(5, 5, 51,0) 55%, rgba(5, 5, 51,.25) 100%);
+  pointer-events:none;
+}
+.hero::after{
+  content:""; position:absolute; left:0; right:0; bottom:0; height:60%;
+  background:linear-gradient(to bottom, rgba(5, 5, 51,0) 0%, rgba(5, 5, 51,.35) 35%, rgba(5, 5, 51,.78) 80%, rgba(5, 5, 51,.92) 100%);
+  pointer-events:none;
+}
+
+/* שכבת טקסט/אייקונים על ההירו */
+.hero-content{ position:absolute; inset:auto 0 0 0; z-index:1; margin: 4px }
+.hero-name{ font-size:clamp(22px,3vw + 10px,36px); font-weight:900; margin:2px; text-shadow:0 3px 10px rgba(5, 5, 51,.55); }
+.hero-sub{ font-size:16px; color:var(--ink-soft); margin:0 0 14px; text-shadow:0 2px 8px rgba(5, 5, 51,.5); }
+
+/* גלולה לאייקון רשת */
+.social-pills{ display:flex; gap:10px; justify-content:center; margin-bottom:6px; }
+.pill{ width:42px; height:42px; border-radius:999px; display:grid; place-items:center; background:#fff; box-shadow:0 4px 10px rgba(5, 5, 51,.25); transition:transform .15s ease, box-shadow .2s ease; }
+.pill img{ width:22px; height:22px; display:block; }
+.pill:hover{ transform:translateY(-2px) scale(1.03); box-shadow:0 8px 18px rgba(5, 5, 51,.35); }
+.pill:active{ transform:translateY(0) scale(.99); }
+
+/* ================= CONTENT ================= */
+.profile-container{ background-color: #050533; padding: 12px 20px }
+.bio-line{ font-size:15px; color:var(--ink-soft); margin:0; }
+/* כרטיסים – רחבים יותר, רווחים קטנים יותר */
+.card-link{
+  position:relative; display:inline-block; width:100%; max-width:460px; height:164px;
+  margin:5px 0; border-radius:11px; overflow:hidden;
+}
+.card-img{
+  position:absolute; inset:0; width:100%; height:100%; object-fit:cover; display:block; z-index:0;
+}
+
+/* גרדיאנט עליון ממש מהקצה */
+.card-link::before{
+  content:""; position:absolute; inset:0; pointer-events:none; z-index:1;
+  background: linear-gradient(
+    to bottom,               /* מלמעלה למטה */
+    rgba(5, 5, 51,.55) 0%,      /* כהה ממש בקצה העליון */
+    rgba(5, 5, 51,.28) 14%,     /* דועך בהדרגה */
+    rgba(5, 5, 51,0) 34%        /* נעלם לגמרי */
+  );
+}
+
+/* גרדיאנט תחתון */
+.card-link::after{
+  content:""; position:absolute; inset:0; pointer-events:none; z-index:1;
+  background: linear-gradient(
+    to bottom,
+    rgba(5, 5, 51,0) 70%,
+    rgba(5, 5, 51,.38) 85%,
+    rgba(5, 5, 51,.84) 100%
+  );
+}
+
+
+.card-link:hover{ transform:translateY(-2px) scale(1.02) rotateX(1.2deg);
+  box-shadow:0 8px 22px rgba(5, 5, 51,.55), inset 0 0 0 1px rgba(255,255,255,.12);
+  filter:saturate(1.06);
+}
+.card-text{ position:absolute; inset:auto 0 0 0; z-index:1; padding:16px 18px; font-size:22px; font-weight:800; color:#fff; text-shadow:0 2px 6px rgba(5, 5, 51,.45); }
+
+/* כפתורי טקסט – רחבים יותר, רווחים קטנים יותר */
+.link-button-with-icon{
+height: 88px;
+  display:flex; align-items:center; justify-content:center; gap:12px;
+  background:#0e1b3e; color:#fff; border-radius:11px; text-decoration:none;
+  width:100%; max-width:460px; margin:12px auto 0; padding:16px 24px; font-size:18px;
+  box-shadow:0 4px 12px rgba(5, 5, 51,.2); transition:background-color .25s ease, transform .2s ease;
+}
+.link-button-with-icon:hover{ background:var(--btn-hover); transform:translateY(-1px) scale(1.02); }
+.link-button-with-icon:focus-visible{ outline:3px solid #fff; outline-offset:2px; }
+.button-icon{ mac-width:88px; height:28px; border-radius:50%; object-fit:cover; }
+
+/* CTA מודגש עם מסגרת גראדיינטית */
+.cta-primary{
+  background:#2c0b74;
+}
+.cta-primary-blue{
+  background:#0c0b74;
+}
+.cta-primary:hover{
+  background:
+text-color: white;
+    linear-gradient(#3458a7,#3458a7) padding-box,
+    linear-gradient(90deg,#74b2ff,#b5a0ff,#ffa0c6) border-box;
+}
+
+/* רשתות קטנות בתחתית */
+.social-links{ margin:32px; display:flex; justify-content:center; gap:18px; }
+.social-links img{ width:28px; height:28px; transition:transform .2s ease, filter .2s ease; }
+.social-links a:hover img{ transform:scale(1.1); filter:drop-shadow(0 2px 6px rgba(5, 5, 51,.35)); }
+
+/* מובייל ללא פינות */
+@media (max-width:600px){ .main-wrapper{ border-radius:0 !important; } }
+
+/* מצבי צבע */
+@media (prefers-color-scheme:dark){ :root{ --panel-alpha:.68 } }
+@media (prefers-color-scheme:light){ :root{ --panel-alpha:.56 } }
+
+/* Reduced motion */
+@media (prefers-reduced-motion:reduce){
+  .card-link,.link-button-with-icon,.pill{ transition:none }
+  .card-link:hover,.link-button-with-icon:hover,.pill:hover{ transform:none }
+}
+/* ================= BUTTON WITH RIGHT MEDIA ================= */
+
+/* גרדיאנט עליון+תחתון על כל הכפתור */
+a.link-button-with-icon.media-right{
+text-align: right;
+  position: relative;
+  overflow: hidden;
+ --topbot-alpha: .28;   /* חוזק הגרדיאנט העליון/תחתון */
+  --topbot-spread: 28%;  /* עד כמה הוא “נכנס” פנימה */
+  --side-alpha: .22;     /* חוזק הגרדיאנט הצדדי (אם מוגדר אצלך) */
+}
+
+a.link-button-with-icon.media-right::after{
+  content:"";
+  position:absolute;
+  inset:0;               /* מכסה את כל הכפתור */
+  pointer-events:none;
+  z-index:2;             /* מעל התמונה */
+  background:
+    linear-gradient(to bottom, rgba(5, 5, 51,var(--topbot-alpha)) 0%, rgba(5, 5, 51,0) var(--topbot-spread)),
+    linear-gradient(to top,    rgba(5, 5, 51,var(--topbot-alpha)) 0%, rgba(5, 5, 51,0) var(--topbot-spread));
+}
+
+
+a.link-button-with-icon.media-right .button-icon{
+  position: absolute; inset-block: 0; inset-inline-end: 0;
+  width: var(--media-w); height: 100%; object-fit: cover;
+  border-radius: 0; box-shadow: none; z-index: 0;
+max-width: 88px;
+}
+
+/* צד שמאלי – דהייה חזקה יותר מהתמונה לטקסט */
+a.link-button-with-icon.media-right::before{
+  content:""; position:absolute; inset-block:0; inset-inline-end:0;
+  width: var(--media-w); pointer-events:none; z-index: 1;
+  background: linear-gradient(to left,
+    rgba(5, 5, 51,var(--side-alpha)) 0%,
+    rgba(5, 5, 51,.22) 32%,
+    rgba(5, 5, 51,0) 60%
+  );
+  /* להדליק "אגרסיבי": */
+  /* mix-blend-mode: multiply; */
+}
+
+
+
+/* פוקוס נגיש */
+a.link-button-with-icon.media-right:focus-visible{
+  outline:3px solid #fff; outline-offset:2px;
+}
+
+
+/* גרדיאנט עליון+תחתון על כל הכפתור */
+a.link-button-with-icon.media-right-contact{
+background-color: #0b380b;
+</style>
+
+<div class="outer-wrapper">
+  <div class="main-wrapper">
+    <div class="profile-wrapper">
+
+      <!-- ===== HERO ===== -->
+      <section class="hero" role="img" >
+        <!-- החלף לשמות הקבצים שלך -->
+        <picture>
+          <source srcset="./media/Screenshot-2025-09-06-at-21.32.26.png 2000w,
+                          ./media/Screenshot-2025-09-06-at-21.32.26.png 1400w,
+                          ./media/Screenshot-2025-09-06-at-21.32.26.png 900w"
+                  sizes="(min-width:728px) 760px, 100vw">
+          <img class="hero-img" src="./media/Screenshot-2025-09-06-at-21.32.26.png"
+                decoding="async" loading="eager">
+        </picture>
+
+        <div class="hero-content">
+          <div class="hero-name">יאיר אהרון כהן</div>
+      <span class="bio-line"><b>
+</b>
+קורסים דיגיטליים, סדנאות ותהליכי צמיחה 
+
+</p>
+
+        </div>
+      </section>
+
+      <!-- ===== CONTENT ===== -->
+      <div class="profile-container">
+ <!-- 
+  <span  style="color: white; font-weight: bold; font-size:16px; margin: 11px 0;" class="copyable" tabindex="0" role="button" data-copy="YAMA75-2025" data-hint="העתקת קישור">
+  
+  קופון השקה <br/>
+ 75% הנחה עד סוף אוגוסט: YAMA75-2025
+ 
+  </span>
+-->
+        <!-- כרטיסים (עם <img> + lazy‑load) -->
+<div class="section-label">קורסים וסדנאות</div>
+
+       <a href="https://thedigitalreality.net/building-yama-workshop/" class="card-link" data-ev="card" data-name="בניית מערכת ימה קורס דיגיטלי">
+          <img class="card-img" src="./media/Gemini_Generated_Image_hh2g1xhh2g1xhh2g.png"
+               alt="בניית מערכת ימה" loading="lazy" decoding="async">
+        <div class="card-text">בניית מערכת ימה
+
+<br/>
+סדנה מעשית
+        </div> 
+        </a>
+
+
+        <a href="https://thedigitalreality.net/courses/building-yama/" class="card-link" data-ev="card" data-name="בניית מערכת ימה">
+          <img class="card-img" src="./media/Copy-of-Water-Template-4.jpg"
+               alt="בניית מערכת ימה" loading="lazy" decoding="async">
+        <div class="card-text">
+
+           בניית מערכת ימה
+<br/>
+קורס דיגיטלי
+        </div> 
+        </a>
+
+
+
+
+<!-- ===== Copy-to-Clipboard (RTL friendly) ===== -->
+<style>
+  .copyable {
+    cursor: pointer;
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dashed currentColor;
+    padding-inline: .15em;
+    outline: none;
+  }
+  .copyable:focus-visible { box-shadow: 0 0 0 3px rgba(5, 5, 51,.15); border-radius: .25rem; }
+
+  /* Tooltip */
+  .copyable::after {
+    content: attr(data-hint);
+    position: absolute;
+    inset-inline-start: 50%;
+    transform: translateX(-50%) translateY(-120%);
+    background: #000; color: #fff; font-size: .75rem; padding: .25rem .5rem;
+    border-radius: .35rem; white-space: nowrap; opacity: 0; pointer-events: none;
+    transition: opacity .2s ease, transform .2s ease;
+  }
+  .copyable[data-state="copied"]::after {
+    content: "הועתק!";
+    opacity: 1; transform: translateX(-50%) translateY(-140%);
+  }
+
+  /* Optional block style (for code blocks) */
+  .copy-block {
+    position: relative; padding: .75rem 2.5rem .75rem .75rem; border: 1px solid #ddd; border-radius: .5rem;
+    background: #fafafa; direction: ltr; overflow-x: auto; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  .copy-btn {
+    position: absolute; inset-inline-end: .5rem; top: .5rem; cursor: pointer;
+    border: 1px solid #ddd; background: #fff; border-radius: .35rem; padding: .25rem .5rem; font-size: .8rem;
+  }
+
+/* כפתור עם מדיה ימנית (RTL-safe) */
+.link-button-with-icon.media-right{
+  position: relative;
+  justify-content: flex-start;               /* הטקסט בתחילת השורה */
+  align-items: center;
+  min-height: 88px;                          /* גובה קבוע נוח */
+  overflow: hidden;
+  /* משאירים מקום לטקסט מצד שמאל, ולמדיה מצד ימין */
+  padding-inline-start: 16px;
+  padding-inline-end: calc(var(--media-w, 32%) + 16px);
+}
+
+/* התמונה ממלאת את כל צד ימין של הכפתור */
+.link-button-with-icon.media-right .button-icon{
+  position: absolute;
+  inset-block: 0;                            /* top:0; bottom:0; */
+  inset-inline-end: 0;                       /* right:0 ב-RTL ולוגי ל-LTR */
+  width: var(--media-w, 42%);                /* כמה מרוחב הכפתור מוקצה לתמונה */
+  height: 100%;
+  object-fit: cover;                          /* מילוי מלא בלי עיוות */
+  border-radius: 0;                           /* אין עיגול אייקון */
+  box-shadow: none;                           /* בלי צל של האייקון */
+}
+
+/* רספונסיביות – במובייל אפשר להגדיל מעט את חלק התמונה */
+@media (max-width:480px){
+  .link-button-with-icon.media-right{
+    min-height: 82px;
+  }
+  .link-button-with-icon.media-right .button-icon,
+  .link-button-with-icon.media-right::after{
+    width: 100%;
+  }
+}
+
+/* פוקוס נגיש לכפתור */
+.link-button-with-icon.media-right:focus-visible{
+  outline:3px solid #fff; outline-offset:2px;
+}
+
+.section-label {
+    margin-top: 12px;
+    color: #a185da;
+    font-size: 18px;
+    font-weight: bold;
+}
+</style>
+
+
+<script>
+(function () {
+  const SECURE_CTX_MSG = "העתקה דורשת דף מאובטח (https).";
+  const copiedStateTimeout = 1200;
+
+  async function writeClipboard(text) {
+    // עדיפות ל־Clipboard API (דורש HTTPS)
+    if (navigator.clipboard && window.isSecureContext) {
+      await navigator.clipboard.writeText(text);
+      return;
+    }
+    // Fallback ישן: textarea נסתרת + execCommand
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.position = "fixed";
+    ta.style.opacity = "0";
+    document.body.appendChild(ta);
+    ta.focus();
+    ta.select();
+    const ok = document.execCommand("copy");
+    document.body.removeChild(ta);
+    if (!ok) throw new Error(SECURE_CTX_MSG);
+  }
+
+  function getTextToCopy(el) {
+    // אם יש data-copy – נשתמש בו; אחרת הטקסט הפנימי
+    const fromAttr = el.getAttribute("data-copy");
+    if (fromAttr && fromAttr.trim()) return fromAttr.trim();
+    // לניקוי רווחים עודפים ושבירת שורות
+    return el.textContent.replace(/\s+\n/g, "\n").trim();
+  }
+
+  function setCopiedState(el) {
+    el.setAttribute("data-state", "copied");
+    setTimeout(() => el.removeAttribute("data-state"), copiedStateTimeout);
+  }
+
+  function isCopyable(el) {
+    return el.classList && (el.classList.contains("copyable") || el.classList.contains("copy-block") || el.classList.contains("copy-btn"));
+  }
+
+  // האזנה קלילה לכל הקליקים במעטפת
+  document.addEventListener("click", async (e) => {
+    // כפתור בתוך copy-block
+    if (e.target.classList.contains("copy-btn")) {
+      const block = e.target.closest(".copy-block");
+      if (!block) return;
+      const text = block.getAttribute("data-copy")?.trim() || block.textContent.trim();
+      try {
+        await writeClipboard(text);
+        setCopiedState(block);
+        e.target.textContent = "הועתק!";
+        setTimeout(() => (e.target.textContent = "העתק"), copiedStateTimeout);
+      } catch (err) {
+        alert(err.message || "נכשלה ההעתקה");
+      }
+      return;
+    }
+
+    // copyable אינליין
+    const el = e.target.closest(".copyable");
+    if (!el) return;
+    try {
+      const text = getTextToCopy(el);
+      await writeClipboard(text);
+      setCopiedState(el);
+    } catch (err) {
+      alert(err.message || "נכשלה ההעתקה");
+    }
+  });
+
+  // תמיכה במקלדת: Enter / Space
+  document.addEventListener("keydown", async (e) => {
+    if (e.key !== "Enter" && e.key !== " ") return;
+    const el = document.activeElement;
+    if (!isCopyable(el) || !el.classList.contains("copyable")) return;
+    e.preventDefault();
+    try {
+      const text = getTextToCopy(el);
+      await writeClipboard(text);
+      setCopiedState(el);
+    } catch (err) {
+      alert(err.message || "נכשלה ההעתקה");
+    }
+  });
+})();
+</script>
+
+
+        <a href="https://thedigitalreality.net/courses/chronic-dehydration/" class="card-link" data-ev="card" data-name="מהי התייבשות כרונית?">
+          <img class="card-img" src="./media/Add-a-heading.jpg"
+               alt="מהי התייבשות כרונית?" loading="lazy" decoding="async">
+          <div class="card-text">מהי התייבשות כרונית?</div> 
+        </a>
+
+        <a href="https://thedigitalreality.net/" class="card-link" data-ev="card" data-name="המציאות הדיגיטלית">
+          <img class="card-img" src="./media/jpg"
+               alt="המציאות הדיגיטלית" loading="lazy" decoding="async">
+          <div class="card-text">המציאות הדיגיטלית</div> 
+        </a>
+
+        <!-- CTA-ים רחבים יותר -->
+         <div class="section-label">קבוצות ומעגלים</div>
+
+        <a href="https://chat.whatsapp.com/IbKcp5EnnR25qI4h3IkRTr" class="link-button-with-icon media-right media-right-contact" target="_blank" rel="noopener noreferrer" aria-label="בניית מערכת ימה -  דיונים, עדכונים, ייעוץ, תמיכה והנחות" data-ev="cta" data-name="מעגלי צמיחה – סדנאות">
+          <img src="./media/whatsapp-sign-scaled.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+          ואצאפ &#8211; 
+בניית מערכת ימה דיונים, עדכונים, ייעוץ ותמיכה
+        </a>
+
+        <a href="https://chat.whatsapp.com/F1vtwpZK33Z3ZZc3bA03Ie" class="link-button-with-icon media-right media-right-contact" target="_blank" rel="noopener noreferrer" aria-label="מעגלי צמיחה – סדנאות" data-ev="cta" data-name="מעגלי צמיחה – סדנאות">
+          <img src="./media/file-1.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+                 ואצאפ &#8211; 
+
+                 מעגלי צמיחה – סדנאות ואימוני כניסה לשקט
+        </a>
+
+        <a href="https://wa.me/+972502171468" class="link-button-with-icon media-right media-right-contact" target="_blank" rel="noopener noreferrer" aria-label="שליחת הודעת וואטסאפ" data-ev="cta" data-name="וואטסאפ – צרו קשר">
+          <img src="./media/cropped-2-e1745908821308.png" alt="" class="button-icon" loading="lazy" decoding="async">
+                 ואצאפ &#8211; 
+   לכל שאלה נוספת שלח.י הודעה
+        </a>
+
+                 <div class="section-label">מאמרים &#8211; מים</div>
+
+
+        <a href="https://sites.google.com/view/hydratingwaters" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/hydrating-waters.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+שיטת מַיִם מַרְוִים
+        </a>
+
+        <a href="https://thedigitalreality.net/water-filtration-why-ro-and-why-yama/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Gemini_Generated_Image_6zy3hj6zy3hj6zy3.png" alt="" class="button-icon" loading="lazy" decoding="async">
+סינון מים – מדוע אוסמוזה ומדוע ימה
+        </a>
+
+        <a href="https://thedigitalreality.net/copper-qualities/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Gemini_Generated_Image_mki3atmki3atmki3.png" alt="" class="button-icon" loading="lazy" decoding="async">
+נחושת ותכונותיה
+        </a>
+
+        <a href="https://thedigitalreality.net/the-ph-myth/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/ChatGPT-Image-Sep-12-2025-09_01_43-AM.png" alt="" class="button-icon" loading="lazy" decoding="async">
+מיתוס המים הבסיסיים
+        </a>
+
+        <a href="https://thedigitalreality.net/strong-alkalinity-gut-health/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/ChatGPT-Image-Aug-18-2025-09_30_10-AM.png" alt="" class="button-icon" loading="lazy" decoding="async">
+מים בסיסיים חזקים: מה הסיכון למערכת העיכול?
+        </a>
+
+        <a href="https://thedigitalreality.net/black-tea-absorption-test-myth/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/ChatGPT-Image-Aug-18-2025-09_17_12-AM.png" alt="" class="button-icon" loading="lazy" decoding="async">
+☕ מיתוס שקית התה וה”חדירה לתאים”
+        </a>
+
+        <a href="https://thedigitalreality.net/what-is-cellular-drought/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/ChatGPT-Image-May-15-2025-07_45_44-PM.png" alt="" class="button-icon" loading="lazy" decoding="async">
+מהי בצורת תאית
+        </a>
+
+        <a href="https://thedigitalreality.net/why-vortexing-water/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/May-21-2025-11_03_21-AM.png" alt="" class="button-icon" loading="lazy" decoding="async">
+מה משמעות תנועת הוורטקס במערכת ימה ובמים בכלל
+        </a>
+
+        <a href="https://thedigitalreality.net/how-to-vortex-water-at-home/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Screenshot-2025-05-25-at-9.43.58.png" alt="" class="button-icon" loading="lazy" decoding="async">
+איך לייצר וורטקס במים – בקלות ובבית
+        </a>
+
+
+        <a href="https://thedigitalreality.net/drinking-distilled-water-cleansing-or-breaking/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Screenshot-2025-09-14-at-12.48.50.png" alt="" class="button-icon" loading="lazy" decoding="async">
+שתיית מים מזוקקים? ניקוי עמוק או פירוק הגוף?
+        </a>
+
+        <a href="https://thedigitalreality.net/what-is-liquid-zeolite/" class="link-button-with-icon cta-primary-blue media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/liquid-zeolite-with-DHQ.jpeg" alt="" class="button-icon" loading="lazy" decoding="async">
+זאוליט &#8211; מינרל הפלא לניקוי מתכות ורעלים מהגוף
+        </a>
+
+
+
+                 <div class="section-label">מאמרים &#8211; תודעה</div>
+
+
+
+        <a href="https://thedigitalreality.net/the-soul-the-embodiment-of-consciousness-into-two-poles/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Gemini_Generated_Image_o3jt2xo3jt2xo3jt.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+הנפש – הנפשת התודעה ל-2 קטבים
+        </a>
+
+
+
+
+        <a href="https://thedigitalreality.net/the-body-as-a-bio-electro-hydrophilic-computer/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Gemini_Generated_Image_ab0ptaab0ptaab0p.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+הגוף כמחשב הידרופילי ביו־אלקטרי
+        </a>
+
+
+
+        <a href="https://thedigitalreality.net/the-inner-child-as-an-emotional-computer-in-search-of-a-parent/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Gemini_Generated_Image_mzl17hmzl17hmzl1.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+הילד הפנימי כמחשב רגשי שמבקש הורה
+        </a>
+
+
+
+        <a href="https://thedigitalreality.net/the-self-as-a-computer-four-layers-of-the-human-system-of-consciousness/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Gemini_Generated_Image_axrtaoaxrtaoaxrt.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+האני כמחשב &#8211; ארבע שכבות של מערכת התודעה האנושית
+        </a>
+
+
+
+        <a href="https://thedigitalreality.net/inner-shadows-tree/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/the-tree-of-shadows.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+מהו עץ הצללים
+        </a>
+
+
+        <a href="https://thedigitalreality.net/inner-shadow-tree-andneuroplasticity/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Screenshot-2025-09-23-at-14.49.32.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+עץ הצללים כמבנה נוירופלסטי
+        </a>
+
+        
+
+        <a href="https://thedigitalreality.net/the-brain-as-a-computer-and-quiet-as-the-end-task-button/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Screenshot-2025-09-23-at-15.23.24.jpg" alt="" class="button-icon" loading="lazy" decoding="async">
+המוח כמחשב, והשקט ככפתור סגירת משימות
+        </a>
+
+
+        <a href="https://thedigitalreality.net/the-mirrors-of-perception/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/ChatGPT-Image-Sep-1-2025-04_28_48-PM.png" alt="" class="button-icon" loading="lazy" decoding="async">
+תורת המראות
+        </a>
+
+        <a href="https://thedigitalreality.net/achieving-inner-peace/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Screenshot-2025-09-01-at-17.34.49.png" alt="" class="button-icon" loading="lazy" decoding="async">
+השקט הפנימי – האם הוא ניתן להשגה?
+        </a>
+
+        <a href="https://thedigitalreality.net/4564/" class="link-button-with-icon cta-primary media-right" target="_blank" rel="noopener noreferrer" aria-label="שיטת מַיִם מַרְוִים data-ev=" data-name="שיטת מַיִם מַרְוִים">
+          <img src="./media/Screenshot-2025-09-16-at-9.40.12.png" alt="" class="button-icon" loading="lazy" decoding="async">
+טבלה מורחבת &#8211; השקט הפנימי
+        </a>
+
+        <div class="social-links" aria-label="עוד רשתות">
+          <a href="https://instagram.com/aharonyaircoh" target="_blank" rel="noopener noreferrer">
+            <img src="./media/1384063.png" alt="Instagram" loading="lazy" decoding="async">
+          </a>
+          <a href="mailto:the.digital.reality.space@gmail.com" target="_blank" rel="noopener noreferrer">
+            <img src="./media/542638.png" alt="Email" loading="lazy" decoding="async">
+          </a>
+          <a href="https://www.facebook.com/profile.php?id=100069604805109" target="_blank" rel="noopener noreferrer">
+            <img src="./media/1384053.png" alt="Facebook" loading="lazy" decoding="async">
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- אנליטיקה מינימלית לקליקים (GTM dataLayer) -->
+<script>
+document.addEventListener('click', (e)=>{
+  const a = e.target.closest('a[data-ev]'); if(!a) return;
+  const ev = a.dataset.ev, name = a.dataset.name || a.textContent.trim();
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({event:`click_${ev}`, label:name});
+});
+</script>
+
+<!-- Schema.org Person -->
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"Person",
+  "name":"יאיר אהרון כהן",
+  "url":"https://thedigitalreality.net/yac",
+  "image":"https://thedigitalreality.net/wp-content/uploads/2025/08/your-image.jpg",
+  "sameAs":[
+    "https://instagram.com/aharonyaircoh",
+    "mailto:the.digital.reality.space@gmail.com",
+    "https://www.facebook.com/profile.php?id=100069604805109"
+  ],
+  "knowsAbout":["מים","נשימה","תודעה","קורסים דיגיטליים","סדנאות"]
+}
+</script>
+
+
+
+<p></p>

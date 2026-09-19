@@ -1,0 +1,43 @@
+{
+  "id": 2190,
+  "type": "sfwd-certificates",
+  "title": "שליטה במדיטציה מודעת",
+  "slug": "%d7%aa%d7%a2%d7%95%d7%93%d7%aa-%d7%a1%d7%99%d7%95%d7%9d",
+  "status": "publish",
+  "date": "2025-05-28 13:28:45",
+  "modified": "2025-05-28 10:28:45",
+  "author": "Admin",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net/?post_type=sfwd-certificates&p=2190",
+  "link": "https://thedigitalreality.net/?sfwd-certificates=%D7%AA%D7%A2%D7%95%D7%93%D7%AA-%D7%A1%D7%99%D7%95%D7%9D",
+  "terms": [],
+  "postmeta": {
+    "_wpml_word_count": "{\"total\":6,\"to_translate\":{\"en\":6}}",
+    "_edit_last": "15",
+    "learndash_certificate_options": "a:2:{s:15:\"pdf_page_format\";s:6:\"LETTER\";s:20:\"pdf_page_orientation\";s:1:\"L\";}",
+    "site-sidebar-layout": "default",
+    "ast-site-content-layout": "default",
+    "site-content-style": "default",
+    "site-sidebar-style": "default",
+    "theme-transparent-header-meta": "default",
+    "astra-migrate-meta-layouts": "set",
+    "_wpml_media_duplicate": "1",
+    "_wpml_media_featured": "1",
+    "ld_certificate_builder_old_content": "",
+    "ld_certificate_builder_on": "1",
+    "_wpml_location_migration_done": "1",
+    "_wpml_media_has_media": "1",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "131"
+  },
+  "media": [
+    {
+      "file": "media/jpg-7afd09fc",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/שליטה-במדיטציה-מודעת.jpg",
+      "bytes": 171454,
+      "mime_type": null
+    }
+  ],
+  "video_links": []
+}

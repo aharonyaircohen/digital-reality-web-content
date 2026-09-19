@@ -1,0 +1,82 @@
+<div class="learndash-wrap"><div class="learndash-wrapper ld-registration__outer-wrapper">
+	<div class="learndash-registration-wrapper" style="" >
+		<div
+			class="ld-registration__wrapper ld-registration__wrapper--login"
+			data-js="learndash-view"
+			data-learndash-breakpoints="{&quot;breakpoints&quot;:{&quot;mobile&quot;:375,&quot;tablet&quot;:420,&quot;extra-small&quot;:600,&quot;small&quot;:720,&quot;medium&quot;:960,&quot;large&quot;:1240,&quot;wide&quot;:1440}}"
+			data-learndash-breakpoint-pointer="93de217d-24f8-4b25-b6f7-0d270c9799a5"
+		>
+			<div class="ld-registration__form">
+				
+				
+									<div class="ld-registration__forgot-password-container">
+						<h2 class="ld-registration__heading">
+							Forgot Password						</h2>
+						<form action="" method="POST" class="ld-form ld-registration__forgot-password-form">
+							<label for="user_login">Username or Email Address *</label>
+							<div class="ld-form__field-wrapper ld-form__field-user_login-wrapper">
+								<input
+									type="text"
+									name="user_login"
+									id="user_login"
+									autocapitalize="off"
+									autocomplete="off"
+									class="ld-form__field ld-form__field-user_login"
+								/>
+							</div>
+							<input type="hidden" id="learndash-reset-password-form-nonce" name="learndash-reset-password-form-nonce" value="8a546b7f03" /><input type="hidden" name="_wp_http_referer" value="/?rest_route=%2Fwp%2Fv2%2Fpages&#038;per_page=5&#038;page=5&#038;_fields=id%2Cdate%2Cmodified%2Cslug%2Cstatus%2Ctitle%2Ccontent%2Cexcerpt%2Clink%2Cfeatured_media" />							<input
+								type="submit"
+								value="Reset Password"
+								class="button button-primary button-large wp-element-button"
+							/>
+						</form>
+					</div>
+							</div>
+		</div>
+	</div>
+</div>
+<script class="learndash-breakpoints">
+	( function () {
+		let completed = false;
+
+		/**
+		 * Initializes the LearnDash Breakpoints.
+		 *
+		 * @since 4.16.0
+		 */
+		function initBreakpoints() {
+			if ( completed ) {
+				// This was fired already and completed no need to attach to the event listener.
+				document.removeEventListener( 'DOMContentLoaded', initBreakpoints );
+				return;
+			}
+
+			if (
+				'undefined' === typeof window.learndash ||
+				'undefined' === typeof window.learndash.views ||
+				'undefined' === typeof window.learndash.views.breakpoints ||
+				'function' !== typeof (window.learndash.views.breakpoints.setup)
+			) {
+				return;
+			}
+
+			const container = document.querySelector(
+				'[data-learndash-breakpoint-pointer="93de217d-24f8-4b25-b6f7-0d270c9799a5"]'
+			);
+
+			if ( ! container ) {
+				return;
+			}
+
+			window.learndash.views.breakpoints.setup( container );
+			completed = true;
+			// This was fired already and completed no need to attach to the event listener.
+			document.removeEventListener( 'DOMContentLoaded', initBreakpoints );
+		}
+
+		// Try to init the breakpoints right away.
+		initBreakpoints();
+		document.addEventListener( 'DOMContentLoaded', initBreakpoints );
+	})();
+</script>
+</div>

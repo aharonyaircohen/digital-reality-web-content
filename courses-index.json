@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "wordpress_id": 5088,
+      "title": "Test Course A",
+      "slug": "test-course-a",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?course=test-course-a",
+      "path": "courses/5088-test-course-a",
+      "media_count": 1,
+      "video_link_count": 0
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>כלי ליצירת קוד הטמעת גיליון Google</title>
+  <style>
+    body { font-family: sans-serif; padding: 2em; background: #f9f9f9; }
+    label { display: block; margin: 1em 0 0.3em; }
+    input { width: 100%; padding: 0.5em; margin-bottom: 1em; font-family: monospace; }
+    pre { background: #fff; border: 1px solid #ccc; padding: 1em; white-space: pre-wrap; word-break: break-word; direction: ltr; text-align: left; }
+    .note { font-size: 0.9em; color: #555; }
+  </style>
+</head>
+<body>
+  <h1>כלי ליצירת קוד הטמעת גיליון Google</h1>
+  <p>באקסל לחץ על קובץ &#8211; שיתוף &#8211; פרסום באינטרנט והעתק את הקישור</p>
+  <p>הכניסו את כתובת הגיליון שפרסמתם ל־Web, ואת מזהה הגיליון (מספר ה־gid), ותקבלו קוד הטמעה מותאם רספונסיבית.</p>
+
+  <label for="sheetUrl">🔗 כתובת ה־Google Sheet (פורמט /pubhtml)</label>
+  <input type="text" id="sheetUrl" placeholder="https://docs.google.com/spreadsheets/d/e/.../pubhtml">
+
+  <p>הסתכל בכתובת הurl והעתק משם את מספר ה gid</p>
+  <label for="gid">📄 מזהה גיליון (gid)</label>
+  <input type="text" id="gid" placeholder="למשל: 0 או 987654321">
+
+  <label>📋 קוד הטמעה מוכן:</label>
+  <pre id="embedCode"></pre>
+
+  <p class="note">
+    💡 ודאו ששיתפתם את הגיליון דרך: <strong>File > Share > Publish to Web</strong><br>
+    ושבחרתם ב־<em>Web page</em> ולא ב־PDF או Excel.
+  </p>
+
+  <script>
+    const sheetUrlInput = document.getElementById('sheetUrl');
+    const gidInput = document.getElementById('gid');
+    const embedOutput = document.getElementById('embedCode');
+
+    function updateEmbedCode() {
+      const url = sheetUrlInput.value.trim();
+      const gid = gidInput.value.trim() || '0';
+      if (!url.includes('/pubhtml')) {
+        embedOutput.textContent = '⚠️ נא להזין קישור תקין שמסתיים ב־/pubhtml';
+        return;
+      }
+      const amp = '&';
+      const embedCode = `<div style="width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch;">
+  <div style="min-width: 900px;">
+    <iframe 
+      src="${url}?gid=${gid}${amp}single=true${amp}widget=true${amp}headers=false"
+      width="100%" 
+      height="600" 
+      style="border: none;"
+      frameborder="0" 
+      scrolling="auto" 
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>`;
+      embedOutput.textContent = embedCode;
+    }
+
+    sheetUrlInput.addEventListener('input', updateEmbedCode);
+    gidInput.addEventListener('input', updateEmbedCode);
+  </script>
+</body>
+</html>
+
+
+
+
+<p></p>

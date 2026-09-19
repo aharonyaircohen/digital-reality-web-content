@@ -1,0 +1,27 @@
+{
+  "id": 3206,
+  "type": "sfwd-question",
+  "title": "Question",
+  "slug": "question-2",
+  "status": "publish",
+  "date": "2025-06-21 21:14:55",
+  "modified": "2025-06-21 18:14:55",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-question&p=3206",
+  "link": "https://thedigitalreality.net/?sfwd-question=question-2",
+  "terms": [],
+  "postmeta": {
+    "question_pro_id": "10",
+    "question_points": "0",
+    "question_type": "single",
+    "question_pro_category": "0",
+    "quiz_id": "0",
+    "_sfwd-question": "a:2:{i:0;s:0:\"\";s:18:\"sfwd-question_quiz\";s:1:\"0\";}",
+    "_wpml_location_migration_done": "1",
+    "_wpml_word_count": "{\"total\":4,\"to_translate\":{\"en\":4}}"
+  },
+  "media": [],
+  "video_links": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": 3036,
+  "type": "sfwd-question",
+  "title": "חלק א – שאלות אחריות (מעבר חובה)",
+  "slug": "%d7%97%d7%9c%d7%a7-%d7%90-%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%90%d7%97%d7%a8%d7%99%d7%95%d7%aa-%d7%9e%d7%a2%d7%91%d7%a8-%d7%97%d7%95%d7%91%d7%94",
+  "status": "publish",
+  "date": "2025-06-16 21:14:16",
+  "modified": "2025-06-16 18:14:16",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "1",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-question&p=3036",
+  "link": "https://thedigitalreality.net/?sfwd-question=%D7%97%D7%9C%D7%A7-%D7%90-%D7%A9%D7%90%D7%9C%D7%95%D7%AA-%D7%90%D7%97%D7%A8%D7%99%D7%95%D7%AA-%D7%9E%D7%A2%D7%91%D7%A8-%D7%97%D7%95%D7%91%D7%94",
+  "terms": [],
+  "postmeta": {
+    "question_pro_id": "1",
+    "question_points": "0",
+    "question_type": "single",
+    "question_pro_category": "0",
+    "quiz_id": "3033",
+    "_sfwd-question": "a:2:{i:0;s:0:\"\";s:18:\"sfwd-question_quiz\";i:3033;}",
+    "_wpml_location_migration_done": "1",
+    "_wpml_word_count": "{\"total\":25,\"to_translate\":{\"en\":25}}",
+    "_wp_old_slug": "question"
+  },
+  "media": [],
+  "video_links": []
+}

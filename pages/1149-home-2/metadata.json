@@ -1,0 +1,21 @@
+{
+  "wordpress_id": 1149,
+  "content_type": "pages",
+  "title": "אודות",
+  "slug": "home-2",
+  "source_url": "https://thedigitalreality.net/?page_id=1149",
+  "status": "publish",
+  "published_at": "2025-04-28T10:52:08",
+  "modified_at": "2025-08-25T12:50:52",
+  "excerpt_html": "<p>אודות לא ללמד, אלא לאפשר קוראים לזה אתר. אבל עבורי זה כמו מעבדה פתוחה, יומן חקירה, ומרחב יצירתי שבו אני [&hellip;]</p>\n",
+  "featured_media_source_url": null,
+  "media": [
+    {
+      "file": "media/Screenshot-2025-05-13-at-16.35.18.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/07/Screenshot-2025-05-13-at-16.35.18.png",
+      "bytes": 1545145,
+      "mime_type": "image/png"
+    }
+  ],
+  "video_links": []
+}

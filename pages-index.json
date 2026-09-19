@@ -1,0 +1,594 @@
+{
+  "items": [
+    {
+      "wordpress_id": 5000,
+      "title": "תודעה",
+      "slug": "cons",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=5000",
+      "path": "pages/5000-cons",
+      "media_count": 13,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 4990,
+      "title": "מים",
+      "slug": "waters",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=4990",
+      "path": "pages/4990-waters",
+      "media_count": 16,
+      "video_link_count": 1
+    },
+    {
+      "wordpress_id": 4980,
+      "title": "יאיר אהרון כהן",
+      "slug": "me",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=4980",
+      "path": "pages/4980-me",
+      "media_count": 5,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 4738,
+      "title": "בדיקה",
+      "slug": "%d7%91%d7%93%d7%99%d7%a7%d7%94",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=4738",
+      "path": "pages/4738-%d7%91%d7%93%d7%99%d7%a7%d7%94",
+      "media_count": 1,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 4709,
+      "title": "מסלולי הצטרפות למערכת ימה",
+      "slug": "joining-yama",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=4709",
+      "path": "pages/4709-joining-yama",
+      "media_count": 1,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 4701,
+      "title": "יַמָּה",
+      "slug": "yama",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=4701",
+      "path": "pages/4701-yama",
+      "media_count": 29,
+      "video_link_count": 4
+    },
+    {
+      "wordpress_id": 4673,
+      "title": "מהי מערכת ימה",
+      "slug": "yama-about",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=4673",
+      "path": "pages/4673-yama-about",
+      "media_count": 1,
+      "video_link_count": 1
+    },
+    {
+      "wordpress_id": 4556,
+      "title": "🌊 תוכנית השותפים של מציאות דיגיטלית",
+      "slug": "affiliate-program",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=4556",
+      "path": "pages/4556-affiliate-program",
+      "media_count": 1,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 4503,
+      "title": "סדנה לבניית מערכת ימה",
+      "slug": "building-yama-workshop",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=4503",
+      "path": "pages/4503-building-yama-workshop",
+      "media_count": 1,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 4381,
+      "title": "home-demo",
+      "slug": "home-demo",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=4381",
+      "path": "pages/4381-home-demo",
+      "media_count": 11,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3988,
+      "title": "יאיר אהרון כהן",
+      "slug": "yac",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3988",
+      "path": "pages/3988-yac",
+      "media_count": 32,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3945,
+      "title": "",
+      "slug": "thank-you",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3945",
+      "path": "pages/3945-thank-you",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3687,
+      "title": "מים מַרְוִים – סינון מי שתיה",
+      "slug": "hydrating-waters-filtering-waters",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3687",
+      "path": "pages/3687-hydrating-waters-filtering-waters",
+      "media_count": 1,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3609,
+      "title": "תבנית לדף נחיתה",
+      "slug": "lp-template",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3609",
+      "path": "pages/3609-lp-template",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3596,
+      "title": "Password Reset",
+      "slug": "password-reset",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3596",
+      "path": "pages/3596-password-reset",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3595,
+      "title": "Account",
+      "slug": "account",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3595",
+      "path": "pages/3595-account",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3594,
+      "title": "Logout",
+      "slug": "logout-2",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3594",
+      "path": "pages/3594-logout-2",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3593,
+      "title": "Members",
+      "slug": "members",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3593",
+      "path": "pages/3593-members",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3592,
+      "title": "Register",
+      "slug": "register",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3592",
+      "path": "pages/3592-register",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3591,
+      "title": "Login",
+      "slug": "login-2",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3591",
+      "path": "pages/3591-login-2",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3590,
+      "title": "User",
+      "slug": "user",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3590",
+      "path": "pages/3590-user",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 3086,
+      "title": "תקנון האתר",
+      "slug": "terms-of-use",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=3086",
+      "path": "pages/3086-terms-of-use",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2541,
+      "title": "הטמעת אקסל",
+      "slug": "create-embedded-excel",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=2541",
+      "path": "pages/2541-create-embedded-excel",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2225,
+      "title": "Profile",
+      "slug": "profile",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=2225",
+      "path": "pages/2225-profile",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2224,
+      "title": "Reset Password",
+      "slug": "reset-password-2",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=2224",
+      "path": "pages/2224-reset-password-2",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2223,
+      "title": "Registration Success",
+      "slug": "registration-success",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=2223",
+      "path": "pages/2223-registration-success",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2099,
+      "title": "לוח בקרה",
+      "slug": "my-dashboard",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=2099",
+      "path": "pages/2099-my-dashboard",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2094,
+      "title": "הפרופיל שלי",
+      "slug": "my-profile",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=2094",
+      "path": "pages/2094-my-profile",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2079,
+      "title": "הקורסים שלי",
+      "slug": "my-courses",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=2079",
+      "path": "pages/2079-my-courses",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2071,
+      "title": "החשבון שלי",
+      "slug": "my-account",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=2071",
+      "path": "pages/2071-my-account",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 2028,
+      "title": "הקורסים שלנו",
+      "slug": "our-courses",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=2028",
+      "path": "pages/2028-our-courses",
+      "media_count": 35,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1763,
+      "title": "תקנון רכישת ציוד מערכת ימה",
+      "slug": "building-yama-purchase-agreement",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1763",
+      "path": "pages/1763-building-yama-purchase-agreement",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1754,
+      "title": "תקנון סדנה לבניית מערכת ימה",
+      "slug": "building-yama-terms",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1754",
+      "path": "pages/1754-building-yama-terms",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1738,
+      "title": "בניית מערכת ימה",
+      "slug": "building-yama",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1738",
+      "path": "pages/1738-building-yama",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1632,
+      "title": "קישורים",
+      "slug": "links",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1632",
+      "path": "pages/1632-links",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1578,
+      "title": "Payment",
+      "slug": "airwallex_payment_method_all",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1578",
+      "path": "pages/1578-airwallex_payment_method_all",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1577,
+      "title": "Payment",
+      "slug": "airwallex_payment_method_wechat",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1577",
+      "path": "pages/1577-airwallex_payment_method_wechat",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1576,
+      "title": "Payment",
+      "slug": "airwallex_payment_method_wechat",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1576",
+      "path": "pages/1576-airwallex_payment_method_wechat",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1575,
+      "title": "Payment",
+      "slug": "airwallex_payment_method_wechat",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1575",
+      "path": "pages/1575-airwallex_payment_method_wechat",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1574,
+      "title": "Payment",
+      "slug": "airwallex_payment_method_card",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1574",
+      "path": "pages/1574-airwallex_payment_method_card",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1538,
+      "title": "רישום סטודנטים",
+      "slug": "%d7%a8%d7%99%d7%a9%d7%95%d7%9d-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1538",
+      "path": "pages/1538-%d7%a8%d7%99%d7%a9%d7%95%d7%9d-%d7%a1%d7%98%d7%95%d7%93%d7%a0%d7%98%d7%99%d7%9d",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1506,
+      "title": "Tutor Login",
+      "slug": "tutor-login",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1506",
+      "path": "pages/1506-tutor-login",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1319,
+      "title": "Cart",
+      "slug": "cart",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1319",
+      "path": "pages/1319-cart",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1306,
+      "title": "התנתק",
+      "slug": "logout",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1306",
+      "path": "pages/1306-logout",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1257,
+      "title": "קורסים",
+      "slug": "courses-1",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1257",
+      "path": "pages/1257-courses-1",
+      "media_count": 6,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1249,
+      "title": "תעודות",
+      "slug": "%d7%aa%d7%a2%d7%95%d7%93%d7%aa-%d7%94%d7%95%d7%a7%d7%a8%d7%94",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1249",
+      "path": "pages/1249-%d7%aa%d7%a2%d7%95%d7%93%d7%aa-%d7%94%d7%95%d7%a7%d7%a8%d7%94",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1248,
+      "title": "תעודת סיום",
+      "slug": "%d7%aa%d7%a2%d7%95%d7%93%d7%aa-%d7%a1%d7%99%d7%95%d7%9d",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1248",
+      "path": "pages/1248-%d7%aa%d7%a2%d7%95%d7%93%d7%aa-%d7%a1%d7%99%d7%95%d7%9d",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1242,
+      "title": "איפוס סיסמה",
+      "slug": "reset-password",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1242",
+      "path": "pages/1242-reset-password",
+      "media_count": 1,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1237,
+      "title": "סיסמה אבודה",
+      "slug": "lost-password",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1237",
+      "path": "pages/1237-lost-password",
+      "media_count": 1,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1232,
+      "title": "Login",
+      "slug": "login",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1232",
+      "path": "pages/1232-login",
+      "media_count": 1,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1222,
+      "title": "שאלות נפוצות",
+      "slug": "faq",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1222",
+      "path": "pages/1222-faq",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1221,
+      "title": "לוח בקרה ישן",
+      "slug": "dashboard-old",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1221",
+      "path": "pages/1221-dashboard-old",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1200,
+      "title": "Checkout",
+      "slug": "checkout",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1200",
+      "path": "pages/1200-checkout",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1198,
+      "title": "צור קשר",
+      "slug": "contact",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1198",
+      "path": "pages/1198-contact",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1194,
+      "title": "תנאים ומדיניות",
+      "slug": "terms",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1194",
+      "path": "pages/1194-terms",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1192,
+      "title": "מדיניות פרטיות",
+      "slug": "privacy-policy",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1192",
+      "path": "pages/1192-privacy-policy",
+      "media_count": 0,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1172,
+      "title": "בלוג",
+      "slug": "blog",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1172",
+      "path": "pages/1172-blog",
+      "media_count": 29,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1161,
+      "title": "בית",
+      "slug": "home-2-2",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/",
+      "path": "pages/1161-home-2-2",
+      "media_count": 8,
+      "video_link_count": 0
+    },
+    {
+      "wordpress_id": 1149,
+      "title": "אודות",
+      "slug": "home-2",
+      "status": "publish",
+      "source_url": "https://thedigitalreality.net/?page_id=1149",
+      "path": "pages/1149-home-2",
+      "media_count": 1,
+      "video_link_count": 0
+    }
+  ]
+}

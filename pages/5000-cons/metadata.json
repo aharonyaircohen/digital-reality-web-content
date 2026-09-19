@@ -1,0 +1,93 @@
+{
+  "wordpress_id": 5000,
+  "content_type": "pages",
+  "title": "תודעה",
+  "slug": "cons",
+  "source_url": "https://thedigitalreality.net/?page_id=5000",
+  "status": "publish",
+  "published_at": "2025-10-14T22:44:08",
+  "modified_at": "2025-10-14T22:45:15",
+  "excerpt_html": "",
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/המציאות-הדיגיטלית.jpg",
+  "media": [
+    {
+      "file": "media/ChatGPT-Image-Sep-1-2025-04_28_48-PM.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/ChatGPT-Image-Sep-1-2025-04_28_48-PM.png",
+      "bytes": 2282098,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/Gemini_Generated_Image_ab0ptaab0ptaab0p.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_ab0ptaab0ptaab0p.jpg",
+      "bytes": 272985,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Gemini_Generated_Image_axrtaoaxrtaoaxrt.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_axrtaoaxrtaoaxrt.jpg",
+      "bytes": 149179,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Gemini_Generated_Image_mzl17hmzl17hmzl1.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_mzl17hmzl17hmzl1.jpg",
+      "bytes": 305733,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Gemini_Generated_Image_o3jt2xo3jt2xo3jt.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_o3jt2xo3jt2xo3jt.jpg",
+      "bytes": 120978,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Screenshot-2025-09-01-at-17.34.49.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Screenshot-2025-09-01-at-17.34.49.png",
+      "bytes": 132990,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/Screenshot-2025-09-16-at-9.40.12.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Screenshot-2025-09-16-at-9.40.12.png",
+      "bytes": 313843,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/Screenshot-2025-09-23-at-14.49.32.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Screenshot-2025-09-23-at-14.49.32.jpg",
+      "bytes": 100600,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Screenshot-2025-09-23-at-15.23.24.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Screenshot-2025-09-23-at-15.23.24.jpg",
+      "bytes": 78293,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/cropped-2-e1745908821308.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/04/cropped-2-e1745908821308.png",
+      "bytes": 11076,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/file-1.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/file-1.jpg",
+      "bytes": 125888,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/המציאות-הדיגיטלית.jpg",
+      "bytes": 151605,
+      "mime_type": null
+    },
+    {
+      "file": "media/the-tree-of-shadows.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/the-tree-of-shadows.jpg",
+      "bytes": 171362,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": []
+}

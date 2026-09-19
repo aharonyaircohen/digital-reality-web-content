@@ -1,0 +1,26 @@
+{
+  "id": 104,
+  "type": "sfwd-lessons",
+  "title": "Breathing Techniques for Stress Relief",
+  "slug": "breathing-techniques-for-stress-relief",
+  "status": "publish",
+  "date": "2025-04-28 09:51:23",
+  "modified": "2025-04-28 09:51:23",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-lessons&p=104",
+  "link": "https://thedigitalreality.net/?sfwd-courses=mindful-meditation&sfwd-lessons=breathing-techniques-for-stress-relief&lang=en",
+  "terms": [],
+  "postmeta": {
+    "course_id": "99",
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:99;}",
+    "_wp_old_slug": "lesson",
+    "ld_course_99": "99",
+    "_wpml_word_count": "{\"total\":12,\"to_translate\":{\"he\":12}}",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "235"
+  },
+  "media": [],
+  "video_links": []
+}

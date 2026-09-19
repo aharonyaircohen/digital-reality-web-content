@@ -1,0 +1,75 @@
+{
+  "wordpress_id": 4381,
+  "content_type": "pages",
+  "title": "home-demo",
+  "slug": "home-demo",
+  "source_url": "https://thedigitalreality.net/?page_id=4381",
+  "status": "publish",
+  "published_at": "2025-08-18T21:45:33",
+  "modified_at": "2025-08-18T21:45:36",
+  "excerpt_html": "<p>יאיר אהרון כהן – מים, נשימה, תודעה | קורסים דיגיטליים וסדנאות עמוד קישורים: קורסים דיגיטליים, סדנאות, ומעגלי תודעה – מים [&hellip;]</p>\n",
+  "featured_media_source_url": null,
+  "media": [
+    {
+      "file": "media/1384053.png",
+      "source_url": "https://cdn-icons-png.flaticon.com/512/1384/1384053.png",
+      "bytes": 6230,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/1384063.png",
+      "source_url": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+      "bytes": 31039,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/542638.png",
+      "source_url": "https://cdn-icons-png.flaticon.com/512/542/542638.png",
+      "bytes": 9451,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/cropped-2-e1745908821308.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/04/cropped-2-e1745908821308.png",
+      "bytes": 11076,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/May-21-2025-11_03_21-AM.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/May-21-2025-11_03_21-AM.png",
+      "bytes": 1909613,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/Add-a-heading.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/Add-a-heading.jpg",
+      "bytes": 125569,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Copy-of-Water-Template-4.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/Copy-of-Water-Template-4.jpg",
+      "bytes": 175413,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Copy-of-Water-Template-5.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/Copy-of-Water-Template-5.jpg",
+      "bytes": 115991,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/file-1.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/file-1.jpg",
+      "bytes": 125888,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/photo_5859449317738268414_y.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/photo_5859449317738268414_y.jpg",
+      "bytes": 78941,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": []
+}

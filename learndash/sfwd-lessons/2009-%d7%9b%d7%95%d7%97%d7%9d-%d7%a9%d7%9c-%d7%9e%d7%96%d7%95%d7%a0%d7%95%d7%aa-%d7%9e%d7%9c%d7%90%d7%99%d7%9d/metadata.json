@@ -1,0 +1,29 @@
+{
+  "id": 2009,
+  "type": "sfwd-lessons",
+  "title": "כוחם של מזונות מלאים",
+  "slug": "%d7%9b%d7%95%d7%97%d7%9d-%d7%a9%d7%9c-%d7%9e%d7%96%d7%95%d7%a0%d7%95%d7%aa-%d7%9e%d7%9c%d7%90%d7%99%d7%9d",
+  "status": "publish",
+  "date": "2025-04-28 09:53:48",
+  "modified": "2025-04-28 06:53:48",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net/ldlessons/%d7%9b%d7%95%d7%97%d7%9d-%d7%a9%d7%9c-%d7%9e%d7%96%d7%95%d7%a0%d7%95%d7%aa-%d7%9e%d7%9c%d7%90%d7%99%d7%9d/",
+  "link": "https://thedigitalreality.net/?sfwd-courses=holistic-nutrition&sfwd-lessons=כוחם-של-מזונות-מלאים",
+  "terms": [],
+  "postmeta": {
+    "_top_nav_excluded": "",
+    "_cms_nav_minihome": "",
+    "astra-migrate-meta-layouts": "default",
+    "ld_course_113": "113",
+    "course_id": "113",
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:113;}",
+    "ld_course_steps": "a:7:{s:5:\"steps\";a:1:{s:1:\"h\";a:2:{s:12:\"sfwd-lessons\";a:0:{}s:9:\"sfwd-quiz\";a:0:{}}}s:9:\"course_id\";i:2009;s:7:\"version\";s:8:\"4.20.1.1\";s:5:\"empty\";b:0;s:22:\"course_builder_enabled\";b:1;s:27:\"course_shared_steps_enabled\";b:1;s:11:\"steps_count\";i:0;}",
+    "_ld_course_steps_count": "0",
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "225"
+  },
+  "media": [],
+  "video_links": []
+}

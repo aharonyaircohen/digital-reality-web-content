@@ -1,0 +1,3 @@
+# Holistic Nutrition Essentials
+
+Fuel your body with the right nutrients through our Holistic Nutrition Essentials course. Learn how to balance meals, understand food labels, and incorporate natural, healing foods into your daily diet. Whether you're looking to increase energy, improve digestion, or simply eat better, this course gives you the foundation for a vibrant, healthy life based on whole-food principles.

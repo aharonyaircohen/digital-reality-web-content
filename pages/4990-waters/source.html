@@ -1,0 +1,202 @@
+
+<script>
+
+/* 1) DATA – שנה כאן את הפריטים/קישורים/תמונות לפי 4 הקטגוריות שלך */
+const DATA = {
+  courses: {
+    title: "קורסים סדנאות ותהליכים",
+    display: "card",
+    items: [
+      {
+        href: "https://thedigitalreality.net/yama/",
+        img: "./media/Gemini_Generated_Image_ff2zagff2zagff2z-1-1-e1759086252741.jpg",
+        alt: "מערכת ימה",
+        title: "מערכת ימה",
+        ev: { type: "card", name: "מערכת ימה" }
+      },
+      {
+        href: "https://thedigitalreality.net/courses/chronic-dehydration/",
+        img: "./media/Add-a-heading.jpg",
+        alt: "מהי התייבשות כרונית?",
+        title: "מהי התייבשות כרונית?",
+        subtitle: "קורס דיגיטלי",
+        ev: { type: "card", name: "מהי התייבשות כרונית?" }
+      }
+    ]
+  },
+
+    groups: {
+    title: "קבוצות ומעגלים",
+    display: "link",
+    items: [
+      {
+        href: "https://chat.whatsapp.com/IbKcp5EnnR25qI4h3IkRTr",
+        img: "./media/whatsapp-sign-scaled.jpg",
+        text: "וואטסאפ – בניית מערכת ימה: דיונים, עדכונים, ייעוץ ותמיכה",
+        variant: "media-right",
+        color: "media-right",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "בניית מערכת ימה – דיונים ותמיכה" }
+      },
+      {
+        href: "https://wa.me/+972502171468",
+        img: "./media/cropped-2-e1745908821308.png",
+        text: "וואטסאפ – לכל שאלה נוספת שלח.י הודעה",
+        variant: "media-right",
+        color: "media-right",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "וואטסאפ – צור קשר" }
+      }
+    ]
+  }
+,
+
+  waterArticles: {
+    title: "מאמרים – מים",
+    display: "link",
+    items: [
+      {
+        href: "https://sites.google.com/view/hydratingwaters",
+        img: "./media/hydrating-waters.jpg",
+        text: "שיטת מַיִם מַרְוִים",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "שיטת מים מרווים" }
+      },
+      {
+        href: "https://thedigitalreality.net/water-filtration-why-ro-and-why-yama/",
+        img: "./media/Gemini_Generated_Image_6zy3hj6zy3hj6zy3.png",
+        text: "סינון מים – מדוע אוסמוזה ומדוע ימה",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "סינון מים – מדוע אוסמוזה ומדוע ימה" }
+      },
+      {
+        href: "https://thedigitalreality.net/copper-qualities/",
+        img: "./media/Gemini_Generated_Image_mki3atmki3atmki3.png",
+        text: "נחושת ותכונותיה",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "נחושת ותכונותיה" }
+      },
+      {
+        href: "https://thedigitalreality.net/the-ph-myth/",
+        img: "./media/ChatGPT-Image-Sep-12-2025-09_01_43-AM.png",
+        text: "מיתוס המים הבסיסיים",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "מיתוס המים הבסיסיים" }
+      },
+      {
+        href: "https://thedigitalreality.net/strong-alkalinity-gut-health/",
+        img: "./media/ChatGPT-Image-Aug-18-2025-09_30_10-AM.png",
+        text: "מים בסיסיים חזקים: מה הסיכון למערכת העיכול?",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "מים בסיסיים חזקים – סיכון לעיכול" }
+      },
+      {
+        href: "https://thedigitalreality.net/black-tea-absorption-test-myth/",
+        img: "./media/ChatGPT-Image-Aug-18-2025-09_17_12-AM.png",
+        text: "☕ מיתוס שקית התה והחדירה לתאים",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "מיתוס שקית התה" }
+      },
+      {
+        href: "https://thedigitalreality.net/what-is-cellular-drought/",
+        img: "./media/ChatGPT-Image-May-15-2025-07_45_44-PM.png",
+        text: "מהי בצורת תאית",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "מהי בצורת תאית" }
+      },
+      {
+        href: "https://thedigitalreality.net/why-vortexing-water/",
+        img: "./media/May-21-2025-11_03_21-AM.png",
+        text: "מה משמעות תנועת הוורטקס במערכת ימה ובמים בכלל",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "תנועת הוורטקס במים" }
+      },
+      {
+        href: "https://thedigitalreality.net/how-to-vortex-water-at-home/",
+        img: "./media/Screenshot-2025-05-25-at-9.43.58.png",
+        text: "איך לייצר וורטקס במים – בקלות ובבית",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "איך לייצר וורטקס במים בבית" }
+      },
+      {
+        href: "https://thedigitalreality.net/drinking-distilled-water-cleansing-or-breaking/",
+        img: "./media/Screenshot-2025-09-14-at-12.48.50.png",
+        text: "שתיית מים מזוקקים? ניקוי עמוק או פירוק הגוף?",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "מים מזוקקים – ניקוי או פירוק" }
+      },
+      {
+        href: "https://thedigitalreality.net/no-distilled-water-in-nature-myth/",
+        img: "./media/snow-water.jpg",
+        text: "מיתוס: “מים מזוקקים לא קיימים בטבע",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name:  "מיתוס: “מים מזוקקים לא קיימים בטבע", }
+      },
+      {
+        href: "https://thedigitalreality.net/what-is-liquid-zeolite/",
+        img: "./media/liquid-zeolite-with-DHQ.jpeg",
+        text: "זאוליט – מינרל הפלא לניקוי מתכות ורעלים מהגוף",
+        variant: "media-right",
+        color: "cta-primary-blue",
+        target: "_blank",
+        rel: "noopener noreferrer",
+        ev: { type: "cta", name: "זאוליט – ניקוי רעלים" }
+      }
+    ]
+  },
+
+  consciousnessArticles: {
+    
+  },
+
+    videos: {
+    title: 'סרטונים נבחרים',
+    display: 'video',
+    items: [
+      {
+        href: 'https://www.youtube.com/embed/bJUKQzCZMHE?si=TtM74k9a3gRWsnaV&amp;controls=0',
+        title: 'מיתוס המים הבסיסיים?',
+        // thumb: 'https://.../optional.jpg',  // אופציונלי – אחרת יילקח hqdefault מיוטיוב
+        ev: { type: 'video', name: 'מיתוס המים הבסיסיים?' }
+      },
+    ]
+  },
+};
+
+
+</script>

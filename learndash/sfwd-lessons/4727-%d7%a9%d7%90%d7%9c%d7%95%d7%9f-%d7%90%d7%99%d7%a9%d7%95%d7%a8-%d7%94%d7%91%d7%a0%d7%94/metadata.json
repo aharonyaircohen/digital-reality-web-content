@@ -1,0 +1,26 @@
+{
+  "id": 4727,
+  "type": "sfwd-lessons",
+  "title": "שאלון אישור הבנה",
+  "slug": "%d7%a9%d7%90%d7%9c%d7%95%d7%9f-%d7%90%d7%99%d7%a9%d7%95%d7%a8-%d7%94%d7%91%d7%a0%d7%94",
+  "status": "publish",
+  "date": "2025-09-28 22:24:49",
+  "modified": "2025-09-28 19:24:49",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-lessons&p=4727",
+  "link": "https://thedigitalreality.net/?sfwd-courses=yama-intro&sfwd-lessons=שאלון-אישור-הבנה",
+  "terms": [],
+  "postmeta": {
+    "rank_math_internal_links_processed": "1",
+    "course_id": "4722",
+    "_sfwd-lessons": "a:2:{i:0;s:0:\"\";s:19:\"sfwd-lessons_course\";i:4722;}",
+    "_wpml_location_migration_done": "1",
+    "_wpml_word_count": "{\"total\":7,\"to_translate\":{\"en\":7}}",
+    "_wp_old_slug": "%d7%a9%d7%99%d7%a2%d7%95%d7%a8",
+    "ld_course_4722": "4722"
+  },
+  "media": [],
+  "video_links": []
+}

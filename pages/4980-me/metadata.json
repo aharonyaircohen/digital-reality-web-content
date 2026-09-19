@@ -1,0 +1,45 @@
+{
+  "wordpress_id": 4980,
+  "content_type": "pages",
+  "title": "יאיר אהרון כהן",
+  "slug": "me",
+  "source_url": "https://thedigitalreality.net/?page_id=4980",
+  "status": "publish",
+  "published_at": "2025-10-14T20:38:09",
+  "modified_at": "2025-10-27T23:18:40",
+  "excerpt_html": "",
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/Gemini_Generated_Image_m3nb7rm3nb7rm3nb-e1761596302877.png",
+  "media": [
+    {
+      "file": "media/Gemini_Generated_Image_ff2zagff2zagff2z-1-1-e1759086252741.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_ff2zagff2zagff2z-1-1-e1759086252741.jpg",
+      "bytes": 146788,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Gemini_Generated_Image_m3nb7rm3nb7rm3nb-e1761596302877.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/Gemini_Generated_Image_m3nb7rm3nb7rm3nb-e1761596302877.png",
+      "bytes": 548851,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/cropped-2-e1745908821308.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/04/cropped-2-e1745908821308.png",
+      "bytes": 11076,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/המציאות-הדיגיטלית.jpg",
+      "bytes": 151605,
+      "mime_type": null
+    },
+    {
+      "file": "media/jpg-b146e4b2",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/מסע-בנשימה.jpg",
+      "bytes": 183971,
+      "mime_type": null
+    }
+  ],
+  "video_links": []
+}

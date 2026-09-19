@@ -1,0 +1,28 @@
+{
+  "id": 3190,
+  "type": "sfwd-question",
+  "title": "מהי האחריות שלוקח המשתמש בבניית המערכת?",
+  "slug": "%d7%9e%d7%94%d7%99-%d7%94%d7%90%d7%97%d7%a8%d7%99%d7%95%d7%aa-%d7%a9%d7%9c%d7%95%d7%a7%d7%97-%d7%94%d7%9e%d7%a9%d7%aa%d7%9e%d7%a9-%d7%91%d7%91%d7%a0%d7%99%d7%99%d7%aa-%d7%94%d7%9e%d7%a2%d7%a8%d7%9b",
+  "status": "publish",
+  "date": "2025-06-21 21:02:22",
+  "modified": "2025-06-21 18:02:22",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "2",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-question&p=3190",
+  "link": "https://thedigitalreality.net/?sfwd-question=%D7%9E%D7%94%D7%99-%D7%94%D7%90%D7%97%D7%A8%D7%99%D7%95%D7%AA-%D7%A9%D7%9C%D7%95%D7%A7%D7%97-%D7%94%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9-%D7%91%D7%91%D7%A0%D7%99%D7%99%D7%AA-%D7%94%D7%9E%D7%A2%D7%A8%D7%9B",
+  "terms": [],
+  "postmeta": {
+    "question_pro_id": "4",
+    "question_points": "20",
+    "question_type": "single",
+    "question_pro_category": "0",
+    "quiz_id": "3185",
+    "_sfwd-question": "a:2:{i:0;s:0:\"\";s:18:\"sfwd-question_quiz\";i:3185;}",
+    "_wpml_location_migration_done": "1",
+    "_wpml_word_count": "{\"total\":19,\"to_translate\":{\"en\":19}}",
+    "_wp_old_slug": "question"
+  },
+  "media": [],
+  "video_links": []
+}

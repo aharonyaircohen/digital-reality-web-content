@@ -1,0 +1,33 @@
+{
+  "id": 2597,
+  "type": "sfwd-quiz",
+  "title": "הכנת הכד",
+  "slug": "%d7%94%d7%9b%d7%a0%d7%aa-%d7%94%d7%9b%d7%93",
+  "status": "publish",
+  "date": "2025-06-14 18:22:11",
+  "modified": "2025-06-14 15:22:11",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "0",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-quiz&p=2597",
+  "link": "https://thedigitalreality.net/?sfwd-quiz=%D7%94%D7%9B%D7%A0%D7%AA-%D7%94%D7%9B%D7%93",
+  "terms": [],
+  "postmeta": {
+    "quiz_pro_primary_1": "1",
+    "quiz_pro_id": "1",
+    "quiz_pro_id_1": "1",
+    "_sfwd-quiz": "a:3:{i:0;s:0:\"\";s:18:\"sfwd-quiz_quiz_pro\";i:1;s:16:\"sfwd-quiz_course\";i:2501;}",
+    "_viewProfileStatistics": "1",
+    "_wpml_location_migration_done": "1",
+    "_wpml_word_count": "{\"total\":5,\"to_translate\":{\"en\":5}}",
+    "_wp_old_slug": "quiz",
+    "_timeLimitCookie": "0",
+    "ld_course_steps": "a:7:{s:5:\"steps\";a:1:{s:1:\"h\";a:2:{s:12:\"sfwd-lessons\";a:0:{}s:9:\"sfwd-quiz\";a:0:{}}}s:9:\"course_id\";i:2597;s:7:\"version\";s:8:\"4.20.1.1\";s:5:\"empty\";b:0;s:22:\"course_builder_enabled\";b:1;s:27:\"course_shared_steps_enabled\";b:1;s:11:\"steps_count\";i:0;}",
+    "_ld_course_steps_count": "0",
+    "rank_math_internal_links_processed": "1",
+    "ld_quiz_questions": "a:0:{}",
+    "rank_math_analytic_object_id": "75"
+  },
+  "media": [],
+  "video_links": []
+}

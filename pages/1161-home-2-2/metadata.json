@@ -1,0 +1,63 @@
+{
+  "wordpress_id": 1161,
+  "content_type": "pages",
+  "title": "בית",
+  "slug": "home-2-2",
+  "source_url": "https://thedigitalreality.net/",
+  "status": "publish",
+  "published_at": "2025-04-28T07:15:59",
+  "modified_at": "2025-08-27T16:52:08",
+  "excerpt_html": "<p>מציאות מזווית אחרת &nbsp;מרחב דיגיטלי ללמידה, חקירה, ניקוי והתמרה&nbsp; &nbsp; קורסים מובילים כתבות אחרונות</p>\n",
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/07/המציאות-הדיגיטלית-1.jpg",
+  "media": [
+    {
+      "file": "media/1.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/07/המציאות-הדיגיטלית-1.jpg",
+      "bytes": 153809,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Add-a-heading-4.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/Add-a-heading-4.jpg",
+      "bytes": 133015,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Copy-of-Water-Template-1-1.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/07/Copy-of-Water-Template-1-1.jpg",
+      "bytes": 190394,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Gemini_Generated_Image_k31306k31306k313.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_k31306k31306k313.jpg",
+      "bytes": 240708,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Gemini_Generated_Image_o3jt2xo3jt2xo3jt.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_o3jt2xo3jt2xo3jt.jpg",
+      "bytes": 120978,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/snow-water.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/snow-water.jpg",
+      "bytes": 304501,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/table-salt-vs-sea-salt.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/table-salt-vs-sea-salt.jpg",
+      "bytes": 132082,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/yama-intro-e1759491117404.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/yama-intro-e1759491117404.jpg",
+      "bytes": 76625,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": []
+}

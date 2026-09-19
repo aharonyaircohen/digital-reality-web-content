@@ -1,0 +1,28 @@
+{
+  "id": 3175,
+  "type": "sfwd-question",
+  "title": "מדוע מצוין באופן ברור שמערכת ימה אינה מיועדת לשתייה?",
+  "slug": "%d7%9e%d7%93%d7%95%d7%a2-%d7%9e%d7%a6%d7%95%d7%99%d7%9f-%d7%91%d7%90%d7%95%d7%a4%d7%9f-%d7%91%d7%a8%d7%95%d7%a8-%d7%a9%d7%9e%d7%a2%d7%a8%d7%9b%d7%aa-%d7%99%d7%9e%d7%94-%d7%90%d7%99%d7%a0%d7%94-%d7%9e",
+  "status": "publish",
+  "date": "2025-06-21 20:49:34",
+  "modified": "2025-06-21 17:49:34",
+  "author": "aharonyaircohen",
+  "parent": "0",
+  "menu_order": "1",
+  "guid": "https://thedigitalreality.net?post_type=sfwd-question&p=3175",
+  "link": "https://thedigitalreality.net/?sfwd-question=%D7%9E%D7%93%D7%95%D7%A2-%D7%9E%D7%A6%D7%95%D7%99%D7%9F-%D7%91%D7%90%D7%95%D7%A4%D7%9F-%D7%91%D7%A8%D7%95%D7%A8-%D7%A9%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA-%D7%99%D7%9E%D7%94-%D7%90%D7%99%D7%A0%D7%94-%D7%9E",
+  "terms": [],
+  "postmeta": {
+    "question_pro_id": "2",
+    "question_points": "1",
+    "question_type": "single",
+    "question_pro_category": "0",
+    "quiz_id": "3171",
+    "_sfwd-question": "a:2:{i:0;s:0:\"\";s:18:\"sfwd-question_quiz\";i:3171;}",
+    "_wpml_location_migration_done": "1",
+    "_wpml_word_count": "{\"total\":27,\"to_translate\":{\"en\":27}}",
+    "_wp_old_slug": "question"
+  },
+  "media": [],
+  "video_links": []
+}

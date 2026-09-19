@@ -1,0 +1,21 @@
+{
+  "wordpress_id": 1237,
+  "content_type": "pages",
+  "title": "סיסמה אבודה",
+  "slug": "lost-password",
+  "source_url": "https://thedigitalreality.net/?page_id=1237",
+  "status": "publish",
+  "published_at": "2025-04-29T06:42:20",
+  "modified_at": "2025-05-11T14:47:08",
+  "excerpt_html": "<p>אבדה סיסמה?</p>\n",
+  "featured_media_source_url": null,
+  "media": [
+    {
+      "file": "media/cropped-Digital-Reality.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/04/cropped-Digital-Reality.png",
+      "bytes": 2308,
+      "mime_type": "image/png"
+    }
+  ],
+  "video_links": []
+}
