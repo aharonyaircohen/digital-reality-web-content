@@ -1,0 +1,766 @@
+{
+  "courses": [
+    {
+      "id": 99,
+      "title": "Mindful Meditation Mastery",
+      "path": "courses/01-99-mindful-meditation",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 102,
+              "title": "Introduction to Mindfulness and Meditation",
+              "topics": []
+            },
+            {
+              "id": 104,
+              "title": "Breathing Techniques for Stress Relief",
+              "topics": []
+            },
+            {
+              "id": 106,
+              "title": "Daily Mindfulness Routines",
+              "topics": []
+            },
+            {
+              "id": 108,
+              "title": "Managing Emotions Through Meditation",
+              "topics": []
+            },
+            {
+              "id": 110,
+              "title": "Building a Sustainable Meditation Practice",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Holistic Nutrition Essentials",
+      "path": "courses/02-113-holistic-nutrition",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 115,
+              "title": "Fundamentals of Holistic Nutrition",
+              "topics": []
+            },
+            {
+              "id": 117,
+              "title": "The Power of Whole Foods",
+              "topics": []
+            },
+            {
+              "id": 119,
+              "title": "Meal Planning for Wellness",
+              "topics": []
+            },
+            {
+              "id": 121,
+              "title": "Natural Remedies Through Food",
+              "topics": []
+            },
+            {
+              "id": 123,
+              "title": "Creating Long-Term Healthy Habits",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Strength and Flexibility Flow",
+      "path": "courses/03-114-strength-and-flexibility",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 128,
+              "title": "Warming Up Safely and Effectively",
+              "topics": []
+            },
+            {
+              "id": 130,
+              "title": "Core Strengthening Foundations",
+              "topics": []
+            },
+            {
+              "id": 133,
+              "title": "Flexibility Techniques for Mobility",
+              "topics": []
+            },
+            {
+              "id": 135,
+              "title": "Strength Training Without Weights",
+              "topics": []
+            },
+            {
+              "id": 138,
+              "title": "Cool-Down Routines and Recovery Tips",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1992,
+      "title": "זרימת כוח וגמישות",
+      "path": "courses/04-1992-זרימת-כוח-וגמישות",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 1999,
+              "title": "שגרות קירור וטיפים להתאוששות",
+              "topics": []
+            },
+            {
+              "id": 1998,
+              "title": "לֶקַח",
+              "topics": []
+            },
+            {
+              "id": 2001,
+              "title": "אימון כוח ללא משקולות",
+              "topics": []
+            },
+            {
+              "id": 2002,
+              "title": "טכניקות גמישות לניידות",
+              "topics": []
+            },
+            {
+              "id": 2004,
+              "title": "יסודות חיזוק הליבה",
+              "topics": []
+            },
+            {
+              "id": 2005,
+              "title": "חימום בטוח ויעיל",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1994,
+      "title": "יסודות התזונה ההוליסטית",
+      "path": "courses/05-1994-יסודות-התזונה-ההוליסטית",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 2000,
+              "title": "לֶקַח",
+              "topics": []
+            },
+            {
+              "id": 2004,
+              "title": "יסודות חיזוק הליבה",
+              "topics": []
+            },
+            {
+              "id": 2005,
+              "title": "חימום בטוח ויעיל",
+              "topics": []
+            },
+            {
+              "id": 2006,
+              "title": "יצירת הרגלים בריאים לטווח ארוך",
+              "topics": []
+            },
+            {
+              "id": 2007,
+              "title": "תרופות טבעיות באמצעות מזון",
+              "topics": []
+            },
+            {
+              "id": 2008,
+              "title": "תכנון ארוחות לבריאות",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1996,
+      "title": "שליטה במדיטציה מודעת",
+      "path": "courses/06-1996-שליטה-במדיטציה-מודעת",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 2003,
+              "title": "לֶקַח",
+              "topics": []
+            },
+            {
+              "id": 2010,
+              "title": "יסודות התזונה ההוליסטית",
+              "topics": []
+            },
+            {
+              "id": 2011,
+              "title": "בניית תרגול מדיטציה בר-קיימא",
+              "topics": []
+            },
+            {
+              "id": 2012,
+              "title": "ניהול רגשות באמצעות מדיטציה",
+              "topics": []
+            },
+            {
+              "id": 2013,
+              "title": "שגרות מיינדפולנס יומיות",
+              "topics": []
+            },
+            {
+              "id": 2014,
+              "title": "טכניקות נשימה להקלה על מתחים",
+              "topics": []
+            },
+            {
+              "id": 2015,
+              "title": "מבוא למיינדפולנס ומדיטציה",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2226,
+      "title": "התייבשות כרונית",
+      "path": "courses/07-2226-chronic-dehydration",
+      "chapters": [
+        {
+          "title": "מבוא",
+          "lessons": [
+            {
+              "id": 2233,
+              "title": "הבהרה חשובה",
+              "topics": []
+            },
+            {
+              "id": 2235,
+              "title": "הקדמה",
+              "topics": []
+            },
+            {
+              "id": 2304,
+              "title": "אודותיי",
+              "topics": []
+            },
+            {
+              "id": 2237,
+              "title": "מהי התייבשות כרונית",
+              "topics": []
+            }
+          ]
+        },
+        {
+          "title": "פרק ראשון - מהי התייבשות כרונית",
+          "lessons": [
+            {
+              "id": 2309,
+              "title": "לא לבד",
+              "topics": []
+            },
+            {
+              "id": 2312,
+              "title": "התייבשות תוך תאית",
+              "topics": []
+            },
+            {
+              "id": 2314,
+              "title": "בצורת תאית",
+              "topics": []
+            },
+            {
+              "id": 2316,
+              "title": "אחוז אחד בלבד",
+              "topics": []
+            },
+            {
+              "id": 2318,
+              "title": "זיקנה או יובש",
+              "topics": []
+            },
+            {
+              "id": 2320,
+              "title": "חכמת הגוף",
+              "topics": []
+            },
+            {
+              "id": 2323,
+              "title": "פספוס חכמת הגוף?",
+              "topics": []
+            }
+          ]
+        },
+        {
+          "title": "פרק שני - האם פספסנו את חכמת הגוף",
+          "lessons": [
+            {
+              "id": 2325,
+              "title": "צמא והישרדות",
+              "topics": []
+            },
+            {
+              "id": 2327,
+              "title": "פספוס הצמא",
+              "topics": []
+            },
+            {
+              "id": 2329,
+              "title": "רוויה-מקור הבריאות?",
+              "topics": []
+            },
+            {
+              "id": 3978,
+              "title": "תודה וסיום ביניים",
+              "topics": []
+            },
+            {
+              "id": 2333,
+              "title": "היסטמין - בקרוב",
+              "topics": []
+            },
+            {
+              "id": 2335,
+              "title": "חיבור מחלה לצמא - בקרוב",
+              "topics": []
+            },
+            {
+              "id": 2337,
+              "title": "מערכת החיסון - בקרוב",
+              "topics": []
+            }
+          ]
+        },
+        {
+          "title": "פרק שלישי - הגוף חכם והוא צמא",
+          "lessons": [
+            {
+              "id": 2339,
+              "title": "התייבשות נפשית - בקרוב",
+              "topics": []
+            },
+            {
+              "id": 2341,
+              "title": "אכילה רגשית - בקרוב",
+              "topics": []
+            },
+            {
+              "id": 2347,
+              "title": "התייבשות ואינסולין - בקרוב",
+              "topics": []
+            },
+            {
+              "id": 2349,
+              "title": "מהי רוויה? - בקרוב",
+              "topics": []
+            },
+            {
+              "id": 2354,
+              "title": "מרפאים שעוסקים ברוויה - בקרוב",
+              "topics": []
+            },
+            {
+              "id": 2351,
+              "title": "חזרה לרוויה - בקרוב",
+              "topics": []
+            }
+          ]
+        },
+        {
+          "title": "פקר רביעי - יציאה ממצב כרוני",
+          "lessons": []
+        }
+      ]
+    },
+    {
+      "id": 2377,
+      "title": "מסע בנשימה - סדנת מבוא",
+      "path": "courses/08-2377-journey-with-breath",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 2378,
+              "title": "כניסה לסדנה",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2386,
+      "title": "מַיִם מַרְוִים - סדנה לתלמידי רפואה אינטגרטיבית",
+      "path": "courses/09-2386-the-hydrating-waters",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 2391,
+              "title": "הסדנה",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2428,
+      "title": "מַיִם מַרְוִים - בקרוב",
+      "path": "courses/10-2428-hydrating-waters",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": []
+        }
+      ]
+    },
+    {
+      "id": 2501,
+      "title": "הכשרה לבניית מערכת ימה",
+      "path": "courses/11-2501-building-yama",
+      "chapters": [
+        {
+          "title": "גירסה 1.0",
+          "lessons": [
+            {
+              "id": 3128,
+              "title": "מבוא",
+              "topics": [
+                {
+                  "id": 2939,
+                  "title": "הבהרה חשובה 🔸"
+                },
+                {
+                  "id": 2555,
+                  "title": "הקדמה"
+                },
+                {
+                  "id": 3332,
+                  "title": "יתרונות המערכת"
+                },
+                {
+                  "id": 2956,
+                  "title": "יתרונות של ימה כמערכת אוסמוזה"
+                },
+                {
+                  "id": 2977,
+                  "title": "התקנה על מערכת אוסמוזה קיימת"
+                },
+                {
+                  "id": 3267,
+                  "title": "מחירים ומידות"
+                }
+              ]
+            },
+            {
+              "id": 3230,
+              "title": "רכיבים וציוד עבודה",
+              "topics": [
+                {
+                  "id": 2557,
+                  "title": "רכיבי המערכת"
+                },
+                {
+                  "id": 2559,
+                  "title": "ציוד העבודה"
+                },
+                {
+                  "id": 4316,
+                  "title": "רכישת מערכת האוסמוזה"
+                }
+              ]
+            },
+            {
+              "id": 3228,
+              "title": "מערכת האוסמוזה",
+              "topics": [
+                {
+                  "id": 2965,
+                  "title": "מבוא"
+                },
+                {
+                  "id": 4275,
+                  "title": "רכיבי המערכת"
+                },
+                {
+                  "id": 4277,
+                  "title": "הרכבת ברז ההזנה (ניל)"
+                },
+                {
+                  "id": 4279,
+                  "title": "התקנת המערכת על דופן הארון"
+                },
+                {
+                  "id": 4281,
+                  "title": "חיבור יציאת הביוב"
+                },
+                {
+                  "id": 4283,
+                  "title": "יציאת מיכל האגירה וברז המזיגה"
+                },
+                {
+                  "id": 4285,
+                  "title": "הכנת יציאה למערכת ימה"
+                },
+                {
+                  "id": 4287,
+                  "title": "סיכום"
+                }
+              ]
+            },
+            {
+              "id": 2561,
+              "title": "הכנת בסיס העץ",
+              "topics": [
+                {
+                  "id": 2856,
+                  "title": "חיזוק הרגליים במקרה של שבר"
+                },
+                {
+                  "id": 2563,
+                  "title": "מריחת הבסיס בשמן"
+                }
+              ]
+            },
+            {
+              "id": 2608,
+              "title": "הרכבת הכד",
+              "topics": [
+                {
+                  "id": 2762,
+                  "title": "פירוק מכסה הכד"
+                },
+                {
+                  "id": 2621,
+                  "title": "קידוח בכד חלק 1 - ברז המזיגה"
+                },
+                {
+                  "id": 3534,
+                  "title": "קידוח בכד חלק 2 - קו כניסת מים"
+                },
+                {
+                  "id": 2623,
+                  "title": "הרכבת ברז המזיגה"
+                },
+                {
+                  "id": 2631,
+                  "title": "עטיפת הכד בנחושת"
+                },
+                {
+                  "id": 2633,
+                  "title": "הכד מוכן"
+                }
+              ]
+            },
+            {
+              "id": 2610,
+              "title": "בניית המערכת החשמלית",
+              "topics": [
+                {
+                  "id": 2638,
+                  "title": "חיבור החיישן לחשמל"
+                },
+                {
+                  "id": 2640,
+                  "title": "חיבור השסתום החשמלי"
+                },
+                {
+                  "id": 2642,
+                  "title": "הוספת יציאה למגנט"
+                },
+                {
+                  "id": 2644,
+                  "title": "בדיקה חשמלית"
+                }
+              ]
+            },
+            {
+              "id": 2616,
+              "title": "חיבור החלקים למערכת אחת",
+              "topics": [
+                {
+                  "id": 2636,
+                  "title": "הרכבת החיישן על הכד"
+                },
+                {
+                  "id": 2566,
+                  "title": "הוספת תחתיות לרגלי הבסיס"
+                },
+                {
+                  "id": 2654,
+                  "title": "הברגת השסתום על הבסיס"
+                },
+                {
+                  "id": 2656,
+                  "title": "הידוק החשמל על הבסיס"
+                },
+                {
+                  "id": 2658,
+                  "title": "הדבקת נחושת על המגנט"
+                },
+                {
+                  "id": 2660,
+                  "title": "חיבור צנרת מהשסתום למכסה הכד"
+                },
+                {
+                  "id": 2930,
+                  "title": "סיום הרכבת המערכת"
+                }
+              ]
+            },
+            {
+              "id": 2618,
+              "title": "הפעלה בדיקות סיכום",
+              "topics": [
+                {
+                  "id": 2662,
+                  "title": "בדיקה חשמלית אחרונה"
+                },
+                {
+                  "id": 2664,
+                  "title": "חיבור המערכת לקו מים"
+                },
+                {
+                  "id": 3433,
+                  "title": "פתרון תקלות"
+                },
+                {
+                  "id": 2924,
+                  "title": "לסיום"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3597,
+      "title": "מפגש זום - סינון מים למקלחת",
+      "path": "courses/12-3597-zoom-shower-filtering-system",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 3601,
+              "title": "סינון-למקלחת",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3822,
+      "title": "מים מַרְוִים – סינון מי שתיה",
+      "path": "courses/13-3822-hydrating-waters-filtering-waters",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": []
+        }
+      ]
+    },
+    {
+      "id": 4722,
+      "title": "מבוא לימה: היכרות והכנה",
+      "path": "courses/14-4722-yama-intro",
+      "chapters": [
+        {
+          "title": "Course Content",
+          "lessons": [
+            {
+              "id": 4723,
+              "title": "פתיחה",
+              "topics": [
+                {
+                  "id": 2939,
+                  "title": "הבהרה חשובה 🔸"
+                },
+                {
+                  "id": 2555,
+                  "title": "הקדמה"
+                },
+                {
+                  "id": 3332,
+                  "title": "יתרונות המערכת"
+                },
+                {
+                  "id": 3267,
+                  "title": "מחירים ומידות"
+                }
+              ]
+            },
+            {
+              "id": 4725,
+              "title": "היכרות רעיונית",
+              "topics": [
+                {
+                  "id": 2956,
+                  "title": "יתרונות של ימה כמערכת אוסמוזה"
+                },
+                {
+                  "id": 2977,
+                  "title": "התקנה על מערכת אוסמוזה קיימת"
+                }
+              ]
+            },
+            {
+              "id": 4727,
+              "title": "שאלון אישור הבנה",
+              "topics": []
+            },
+            {
+              "id": 4729,
+              "title": "הכנה מעשית - ציוד המערכת",
+              "topics": [
+                {
+                  "id": 4316,
+                  "title": "רכישת מערכת האוסמוזה"
+                },
+                {
+                  "id": 2557,
+                  "title": "רכיבי המערכת"
+                },
+                {
+                  "id": 2559,
+                  "title": "ציוד העבודה"
+                }
+              ]
+            },
+            {
+              "id": 4731,
+              "title": "סיום",
+              "topics": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
