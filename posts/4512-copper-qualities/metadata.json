@@ -1,0 +1,42 @@
+{
+  "wordpress_id": 4512,
+  "title": "נחושת ותכונותיה",
+  "slug": "copper-qualities",
+  "source_url": "https://thedigitalreality.net/?p=4512",
+  "status": "publish",
+  "published_at": "2025-09-10 14:00:40",
+  "modified_at": "2025-09-10 14:03:40",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "מים"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_mki3atmki3atmki3.png",
+  "media": [
+    {
+      "file": "media/8f1dcba6.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/8f1dcba6.jpg",
+      "bytes": 143940,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/Gemini_Generated_Image_mki3atmki3atmki3.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_mki3atmki3atmki3.png",
+      "bytes": 1443508,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/Gemini_Generated_Image_yo6k15yo6k15yo6k.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/Gemini_Generated_Image_yo6k15yo6k15yo6k.png",
+      "bytes": 1301132,
+      "mime_type": "image/png"
+    }
+  ],
+  "video_links": [],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_seo_score": "19",
+    "rank_math_primary_category": "117"
+  }
+}

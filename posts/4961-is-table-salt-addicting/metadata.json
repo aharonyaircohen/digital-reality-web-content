@@ -1,0 +1,30 @@
+{
+  "wordpress_id": 4961,
+  "title": "מלח שולחן מול מלח ים: האם יש כאן אפקט ממכר?",
+  "slug": "is-table-salt-addicting",
+  "source_url": "https://thedigitalreality.net/?p=4961",
+  "status": "publish",
+  "published_at": "2025-10-04 16:03:04",
+  "modified_at": "2025-10-04 16:14:39",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "הזנה"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/table-salt-vs-sea-salt.jpg",
+  "media": [
+    {
+      "file": "media/table-salt-vs-sea-salt.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/table-salt-vs-sea-salt.jpg",
+      "bytes": 132082,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": [],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_seo_score": "15",
+    "rank_math_primary_category": "123"
+  }
+}

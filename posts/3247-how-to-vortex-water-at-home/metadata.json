@@ -1,0 +1,37 @@
+{
+  "wordpress_id": 3247,
+  "title": "איך לייצר וורטקס במים - בקלות ובבית",
+  "slug": "how-to-vortex-water-at-home",
+  "source_url": "https://thedigitalreality.net/?p=3247",
+  "status": "publish",
+  "published_at": "2025-06-23 12:38:57",
+  "modified_at": "2025-06-23 12:46:50",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "ללא קטגוריה"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/Screenshot-2025-05-25-at-9.43.58.png",
+  "media": [
+    {
+      "file": "media/Screenshot-2025-05-25-at-9.43.58.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/Screenshot-2025-05-25-at-9.43.58.png",
+      "bytes": 1107839,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/Screenshot-2025-06-11-at-10.44.25-1024x667.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/06/Screenshot-2025-06-11-at-10.44.25-1024x667.png",
+      "bytes": 193447,
+      "mime_type": "image/png"
+    }
+  ],
+  "video_links": [
+    "https://youtube.com/shorts/N04vjvc08wg?feature=share"
+  ],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "25"
+  }
+}

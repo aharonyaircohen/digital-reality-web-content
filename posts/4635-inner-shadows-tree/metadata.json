@@ -1,0 +1,30 @@
+{
+  "wordpress_id": 4635,
+  "title": "מהו עץ הצללים ?",
+  "slug": "inner-shadows-tree",
+  "source_url": "https://thedigitalreality.net/?p=4635",
+  "status": "publish",
+  "published_at": "2025-09-23 13:38:16",
+  "modified_at": "2025-09-23 13:43:50",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "ללא קטגוריה"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/the-tree-of-shadows.jpg",
+  "media": [
+    {
+      "file": "media/the-tree-of-shadows.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/the-tree-of-shadows.jpg",
+      "bytes": 171362,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": [],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_seo_score": "12",
+    "rank_math_primary_category": "42"
+  }
+}

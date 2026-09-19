@@ -1,0 +1,19 @@
+{
+  "post_count": 36,
+  "published_count": 33,
+  "pending_count": 3,
+  "media_count": 49,
+  "video_link_count": 7,
+  "download_failures": [
+    {
+      "post_id": "4522",
+      "url": "https://www.who.int/water_sanitation_health/dwq/nutrientschap12.pdf?utm_source=chatgpt.com",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "post_id": "5007",
+      "url": "https://pubs.usgs.gov/wsp/1535j/report.pdf?utm_source=chatgpt.com",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}

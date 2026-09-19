@@ -1,0 +1,29 @@
+{
+  "wordpress_id": 4340,
+  "title": "מיתוס המיקרו קלסטרינג",
+  "slug": "microclusters-myth",
+  "source_url": "https://thedigitalreality.net/?p=4340",
+  "status": "publish",
+  "published_at": "2025-08-18 09:13:46",
+  "modified_at": "2025-08-18 10:21:16",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "ללא קטגוריה"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/ChatGPT-Image-Aug-18-2025-09_03_22-AM.png",
+  "media": [
+    {
+      "file": "media/ChatGPT-Image-Aug-18-2025-09_03_22-AM.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/ChatGPT-Image-Aug-18-2025-09_03_22-AM.png",
+      "bytes": 2265545,
+      "mime_type": "image/png"
+    }
+  ],
+  "video_links": [],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_seo_score": "15"
+  }
+}

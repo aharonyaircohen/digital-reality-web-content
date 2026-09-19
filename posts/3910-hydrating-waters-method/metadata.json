@@ -1,0 +1,30 @@
+{
+  "wordpress_id": 3910,
+  "title": "שיטת מַיִם מַרְוִים",
+  "slug": "hydrating-waters-method",
+  "source_url": "https://thedigitalreality.net/?p=3910",
+  "status": "publish",
+  "published_at": "2025-07-27 19:14:29",
+  "modified_at": "2025-07-27 19:19:51",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "ללא קטגוריה"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/07/Empty-Water-Template.jpg",
+  "media": [
+    {
+      "file": "media/Empty-Water-Template.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/07/Empty-Water-Template.jpg",
+      "bytes": 121424,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": [],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_seo_score": "18",
+    "rank_math_analytic_object_id": "5"
+  }
+}

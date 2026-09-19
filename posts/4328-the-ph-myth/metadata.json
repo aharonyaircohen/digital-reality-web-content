@@ -1,0 +1,48 @@
+{
+  "wordpress_id": 4328,
+  "title": "מיתוס המים הבסיסיים",
+  "slug": "the-ph-myth",
+  "source_url": "https://thedigitalreality.net/?p=4328",
+  "status": "publish",
+  "published_at": "2025-08-18 08:45:34",
+  "modified_at": "2025-09-20 16:17:53",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "ללא קטגוריה"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/alkaline-water-ph.jpg",
+  "media": [
+    {
+      "file": "media/ChatGPT-Image-Aug-18-2025-08_44_42-AM.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/ChatGPT-Image-Aug-18-2025-08_44_42-AM.png",
+      "bytes": 3026261,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/ChatGPT-Image-Sep-12-2025-09_01_43-AM.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/ChatGPT-Image-Sep-12-2025-09_01_43-AM.png",
+      "bytes": 3490471,
+      "mime_type": "image/png"
+    },
+    {
+      "file": "media/alkaline-water-ph.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/08/alkaline-water-ph.jpg",
+      "bytes": 421090,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": [
+    "https://www.youtube.com/watch?v=mqay54M1Oz4",
+    "https://youtu.be/6xTdFPOjfSQ",
+    "https://youtu.be/Cn6yTag6KDE",
+    "https://youtu.be/VsspVEB2Gpo",
+    "https://youtu.be/ovCJ0RE2sok"
+  ],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_seo_score": "22",
+    "rank_math_primary_category": "42"
+  }
+}

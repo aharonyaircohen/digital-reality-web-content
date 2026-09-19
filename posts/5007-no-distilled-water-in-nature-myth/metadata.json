@@ -1,0 +1,30 @@
+{
+  "wordpress_id": 5007,
+  "title": "מיתוס: “מים מזוקקים לא קיימים בטבע”",
+  "slug": "no-distilled-water-in-nature-myth",
+  "source_url": "https://thedigitalreality.net/?p=5007",
+  "status": "publish",
+  "published_at": "2025-10-18 16:12:46",
+  "modified_at": "2025-10-18 16:41:24",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "מים"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/snow-water.jpg",
+  "media": [
+    {
+      "file": "media/snow-water.jpg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/10/snow-water.jpg",
+      "bytes": 304501,
+      "mime_type": "image/jpeg"
+    }
+  ],
+  "video_links": [],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_seo_score": "18",
+    "rank_math_primary_category": "117"
+  }
+}

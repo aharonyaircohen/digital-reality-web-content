@@ -1,0 +1,36 @@
+{
+  "wordpress_id": 4604,
+  "title": "זאוליט - מינרל הפלא לניקוי מתכות ורעלים מהגוף",
+  "slug": "what-is-liquid-zeolite",
+  "source_url": "https://thedigitalreality.net/?p=4604",
+  "status": "publish",
+  "published_at": "2025-09-19 19:57:38",
+  "modified_at": "2025-09-19 20:00:07",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "בריאות"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/liquid-zeolite-with-DHQ.jpeg",
+  "media": [
+    {
+      "file": "media/liquid-zeolite-with-DHQ.jpeg",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/liquid-zeolite-with-DHQ.jpeg",
+      "bytes": 38083,
+      "mime_type": "image/jpeg"
+    },
+    {
+      "file": "media/liquid-zeolite-with-dhq.webp",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/09/liquid-zeolite-with-dhq.webp",
+      "bytes": 7010,
+      "mime_type": "image/webp"
+    }
+  ],
+  "video_links": [],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_seo_score": "15",
+    "rank_math_primary_category": "122"
+  }
+}

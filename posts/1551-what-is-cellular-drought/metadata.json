@@ -1,0 +1,29 @@
+{
+  "wordpress_id": 1551,
+  "title": "מהי בצורת תאית",
+  "slug": "what-is-cellular-drought",
+  "source_url": "https://thedigitalreality.net/?p=1551",
+  "status": "publish",
+  "published_at": "2025-05-14 14:06:52",
+  "modified_at": "2025-06-23 12:27:26",
+  "author": "aharonyaircohen",
+  "excerpt": "",
+  "categories": [
+    "ללא קטגוריה"
+  ],
+  "tags": [],
+  "featured_media_source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-07_45_44-PM.png",
+  "media": [
+    {
+      "file": "media/ChatGPT-Image-May-15-2025-07_45_44-PM.png",
+      "source_url": "https://thedigitalreality.net/wp-content/uploads/2025/05/ChatGPT-Image-May-15-2025-07_45_44-PM.png",
+      "bytes": 2194262,
+      "mime_type": "image/png"
+    }
+  ],
+  "video_links": [],
+  "seo": {
+    "rank_math_internal_links_processed": "1",
+    "rank_math_analytic_object_id": "155"
+  }
+}
