@@ -17,6 +17,6 @@ Videos are intentionally preserved as external links and are not downloaded.
 
 The archive contains 36 posts, 59 pages, 1 public course, and LearnDash content exported from WordPress: 14 courses, 93 lessons, 49 topics, 4 quizzes, 12 questions, and 4 certificates.
 
-LearnDash content is organized under `learndash/courses/` as course → chapter → lesson → topic. Quizzes are stored beside their parent lesson or topic, with questions nested inside. Items without a reliable course relationship are preserved under `learndash/courses/_unassigned/` rather than being assigned by guesswork.
+LearnDash content is organized under `learndash/courses/` as course → chapter → lesson → topic. Quizzes are stored beside their parent lesson or topic, with questions nested inside. Retired or disconnected items with a clear course relationship are preserved under that course's `legacy/` directory. Generic shared material is stored under `learndash/courses/_shared/`.
 
 LearnDash metadata and hierarchy fields are preserved in each `metadata.json`. The original WXR export is kept under `source-exports/`. Local media is stored under `learndash/media/`; external videos remain as links.
