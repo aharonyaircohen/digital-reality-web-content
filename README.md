@@ -37,3 +37,18 @@ to these public files. They preserve the current site images, including the
 dehydration variant without a text overlay. The imported `metadata.json` still
 describes original WordPress media; its references do not guarantee every original
 file was included in the export.
+
+## Profile homepage content
+
+`pages/3988-yac/homepage.json` is the current profile site's visible content.
+Edit its name, introduction, social links, course/community cards, headings, or
+footer to update the site without a website deployment. Arrays set card order;
+`footer.socialOrder` selects the shared social links by icon. Images use paths
+relative to this repository, under `pages/3988-yac/media/`.
+
+The visitor's browser fetches this JSON through the GitHub Contents API on page
+load. Keep values as plain text and links; HTML, CSS, icons, and rendering stay
+in `digital-reality-me-web`. That site's static search/sharing metadata remains
+in its HTML so preview crawlers can read it without JavaScript. Imported
+`source.html` and `metadata.json` preserve the WordPress export; they are not the
+current homepage configuration.

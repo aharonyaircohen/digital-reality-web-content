@@ -1,0 +1,95 @@
+{
+  "name": "יאיר אהרון כהן",
+  "kicker": "מים · נשימה · תודעה",
+  "description": "קורסים דיגיטליים, סדנאות ותהליכי צמיחה",
+  "hero": {
+    "image": "pages/3988-yac/media/hero.webp",
+    "alt": "יאיר אהרון כהן מנגן בקערה טיבטית"
+  },
+  "social": [
+    {
+      "icon": "instagram",
+      "label": "Instagram",
+      "url": "https://instagram.com/aharonyaircoh"
+    },
+    {
+      "icon": "facebook",
+      "label": "Facebook",
+      "url": "https://www.facebook.com/profile.php?id=100069604805109"
+    },
+    {
+      "icon": "email",
+      "label": "Email",
+      "url": "mailto:aharon.yair.cohen@gmail.com"
+    }
+  ],
+  "courses": {
+    "kicker": "ללמוד ולהתנסות",
+    "title": "קורסים וסדנאות",
+    "items": [
+      {
+        "title": "בניית מערכת ימה",
+        "subtitle": "סדנה מעשית",
+        "url": "https://thedigitalreality.net/?page_id=4503",
+        "image": "pages/3988-yac/media/workshop.webp"
+      },
+      {
+        "title": "בניית מערכת ימה",
+        "subtitle": "קורס דיגיטלי",
+        "url": "https://thedigitalreality.net/?sfwd-courses=building-yama",
+        "image": "pages/3988-yac/media/yama.webp"
+      },
+      {
+        "title": "מהי התייבשות כרונית?",
+        "subtitle": "קורס דיגיטלי",
+        "url": "https://thedigitalreality.net/?sfwd-courses=chronic-dehydration",
+        "image": "pages/3988-yac/media/dehydration.webp"
+      },
+      {
+        "title": "המציאות הדיגיטלית",
+        "subtitle": "קורסים, ידע ותכנים",
+        "url": "https://thedigitalreality.net/",
+        "image": "pages/3988-yac/media/digital-reality.webp"
+      }
+    ]
+  },
+  "community": {
+    "kicker": "להתחבר ולקבל תמיכה",
+    "title": "קבוצות ומעגלים",
+    "items": [
+      {
+        "title": "קהילת מערכת ימה",
+        "subtitle": "דיונים, עדכונים, ייעוץ ותמיכה",
+        "url": "https://chat.whatsapp.com/IbKcp5EnnR25qI4h3IkRTr",
+        "image": "pages/3988-yac/media/whatsapp-yama.webp",
+        "kind": "community"
+      },
+      {
+        "title": "מעגלי צמיחה",
+        "subtitle": "סדנאות ואימוני כניסה לשקט",
+        "url": "https://chat.whatsapp.com/F1vtwpZK33Z3ZZc3bA03Ie",
+        "image": "pages/3988-yac/media/growth.webp",
+        "kind": "community"
+      },
+      {
+        "title": "לכל שאלה נוספת",
+        "subtitle": "שלחו לי הודעה ב־WhatsApp",
+        "url": "https://wa.me/+972502171468",
+        "image": "pages/3988-yac/media/contact.webp",
+        "kind": "contact"
+      }
+    ]
+  },
+  "posts": {
+    "kicker": "לקריאה",
+    "title": "מאמרים"
+  },
+  "footer": {
+    "text": "לנשום · להרגיש · לצמוח",
+    "socialOrder": [
+      "instagram",
+      "email",
+      "facebook"
+    ]
+  }
+}
