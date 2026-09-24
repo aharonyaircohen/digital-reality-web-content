@@ -27,3 +27,13 @@ The imported archive includes posts, pages, a public course, and LearnDash cours
 | [digital-reality-web-book](https://github.com/aharonyaircohen/digital-reality-web-book) | Public web reader and its chapter publication copy. |
 
 The website source and public sites are separate repositories. Compare the relevant record, status, and published copy when updating; no automatic sync is implied.
+
+## Profile page assets
+
+`pages/3988-yac/media/` also holds the optimized profile-site images and its
+sharing artwork. These variants were previously stored in `digital-reality-me-web`;
+they now live here as the only maintained copies. The profile site links directly
+to these public files. They preserve the current site images, including the
+dehydration variant without a text overlay. The imported `metadata.json` still
+describes original WordPress media; its references do not guarantee every original
+file was included in the export.
